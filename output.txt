@@ -1,0 +1,619 @@
+-------------------------------------------------------------------------------
+1. name = Acrylamides , url = https://polymerdatabase.com/polymer%20index/../polymer index/polyacrylamides.html
+-------------------------------------------------------------------------------
+1. name =  Poly(acrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacrylamide.html
+2. name =  Poly(N-isopropyl acrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyn-isopropylacrylamide.html
+3. name =  Poly(N-octyl acrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyn-octylacrylamide.html
+4. name =  Poly(N-tert-butyl acrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyn-tert-butylacrylamide.html
+5. name =  Poly(N-phenyl acrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyn-phenylacrylamide.html
+6. name =  Poly(N-sec-butyl acrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyn-sec-butylacrylamide.html
+-------------------------------------------------------------------------------
+2. name = Acrylates , url = https://polymerdatabase.com/polymer%20index/../polymer index/polyacrylates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(acrylic acid) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacrylicacid.html
+2. name =  Poly(benzyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybenzylacrylate.html
+3. name =  Poly(butyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylacrylate.html
+4. name =  Poly(4-chlorophenyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-chlorophenylacrylate.html
+5. name =  Poly(2-cyanoethyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-cyanoethylacrylate.html
+6. name =  Poly(cyanomethyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycyanomethylacrylate.html
+7. name =  Poly(cyclohexyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylacrylate.html
+8. name =  Poly(ethyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylacrylate.html
+9. name =  Poly(2-ethylhexyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-ethylhexylacrylate.html
+10. name =  Poly(hexyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyhexylacrylate.html
+11. name =  Poly(isobutyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylacrylate.html
+12. name =  Poly(isopropyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylacrylate.html
+13. name =  Poly(methyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethylacrylate.html
+14. name =  Poly(octyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoctylacrylate.html
+15. name =  Poly(propyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropylacrylate.html
+16. name =  Poly(sec-butyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polysec-butylacrylate.html
+17. name =  Poly(stearyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polystearylacrylate.html
+18. name =  Poly(tert-butyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylacrylate.html
+19. name =  Poly(2,2,3,3-Tetrafluoropropyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytetrafluoropropyl acrylate.html
+-------------------------------------------------------------------------------
+3. name = Acrylonitriles , url = https://polymerdatabase.com/polymer%20index/../polymer index/polynitriles.html
+-------------------------------------------------------------------------------
+1. name =  Poly(acrylonitrile) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacrylonitrile.html
+2. name =  Poly(methacrylonitrile) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethacrylonitrile.html
+-------------------------------------------------------------------------------
+4. name = Adipates, url = https://polymerdatabase.com/polymer%20index/../polymer index/polyadipates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(butylene adipate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneadipate.html
+2. name =  Poly(ethylene adipate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneadipate.html
+3. name =  Poly(propylene adipate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneadipate.html
+-------------------------------------------------------------------------------
+5. name = Alkenes , url = https://polymerdatabase.com/polymer%20index/../polymer index/polyalkenes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(butylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylene.html
+2. name =  Poly(butyl ethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylethylene.html
+3. name =  Poly(cyclohexylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylethylene.html
+4. name =  Poly(ethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylene.html
+5. name =  Poly(heptylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polynonene.html
+6. name =  Poly(hexylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoctene.html
+7. name =  Poly(isobutene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisobutene.html
+8. name =  Poly(isobutylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylethylene.html
+9. name =  Poly(isopropylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylethylene.html
+10. name =  Poly(2-methylbutene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyethypropylene.html
+11. name =  Poly(octylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polydecene.html
+12. name =  Poly(pentylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyheptene.html
+13. name =  Poly(propylene, url = https://polymerdatabase.com/polymer%20index/../polymers/polypropylene.html
+14. name =  Poly(propylethylene), url = https://polymerdatabase.com/polymer%20index/../polymers/polypentene.html
+15. name =  Poly(tert-butylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylethylene.html
+-------------------------------------------------------------------------------
+6. name = Amides, url = https://polymerdatabase.com/polymer%20index/../polymer index/polyamides.html
+-------------------------------------------------------------------------------
+1. name =  Nylon 3 - Poly(propiolactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon3.html
+2. name =  Nylon 6 - Poly(caprolactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6.html
+3. name =  Nylon 8 - Polycapryllactam  , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon8.html
+4. name =  Nylon 10 - Poly(decano-10-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon10.html
+5. name =  Nylon 11 - Poly(undecano-11-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon11.html
+6. name =  Nylon 12 - Poly(dodecano-12-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon12.html
+7. name =  Nylon 4,6 - Poly(tetramethylene adipamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon4-6.html
+8. name =  Nylon 6,6 - Poly(hexamethylene adipamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon66.html
+9. name =  Nylon 6,9 - Poly(hexamethylene azelamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6-9.html
+10. name =  Nylon 6,10 - Poly(hexamethylene sebacamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6-10.html
+11. name =  Nylon 6,12 - Poly(hexamethylene dodecanediamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon612.html
+12. name =  Nylon 10,10 - Poly(decamethylene sebacamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon10-10.html
+13. name =  Poly(hexamethylene isophthalamide), PA 6I, url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylisophthalamide.html
+14. name =  Poly(hexamethylene teraphthalamide), PA 6T, url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylteraphthalamide.html
+15. name =  Kevlar - Polyaramide  , url = https://polymerdatabase.com/polymer%20index/../polymers/kevlar.html
+16. name =  Nomex - Poly(m-phenylene terephthalamide), url = https://polymerdatabase.com/polymer%20index/../polymers/polym-phenyleneterephthalamide.html
+17. name =  Poly(nonanmethylene teraphthalamide), PA 9T, url = https://polymerdatabase.com/polymer%20index/../polymers/Polynonanediylteraphthalamide.html
+-------------------------------------------------------------------------------
+7. name = Anhydrides, url = https://polymerdatabase.com/polymer%20index/../polymer index/polyanhydrides.html
+-------------------------------------------------------------------------------
+1. name =  Poly(p-pentamethylenedibenzoic anhydride)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyp-pentamethylenedibenzoicanhydride.html
+2. name =  Poly(p-tetramethylenedibenzoic anhydride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyp-tetramethylenedibenzoicanhydride.html
+3. name =  Poly(sebacic anhydride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polysebacicanhydride.html
+4. name =  Poly(azelaic anhydride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyazelaicanhydride.html
+-------------------------------------------------------------------------------
+8. name = Butadienes, url = https://polymerdatabase.com/polymer%20index/../polymer index/polydienes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(1,2-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly12-butadiene.html
+2. name =  Poly(1,4-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-butadiene.html
+3. name =  Polycyclopentene, url = https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html
+4. name =  Poly(1-ethyl-1,4-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly1-ethyl-14-butadiene.html
+5. name =  1,4-Polyisoprene (cis and trans) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisoprene.html
+6. name =  Poly(1,4-pentadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-pentadiene.html
+7. name =  Poly(1-pentenylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html
+-------------------------------------------------------------------------------
+9. name = Butenedioates, url = https://polymerdatabase.com/polymer%20index/../polymer index/polyfumarates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(dimethyl fumarate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polydimethylfumarate.html
+2. name =  Poly(dibutyl fumarate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polydibutylfumarate.html
+3. name =  Poly(diethyl fumarate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polydiethylfumarate.html
+4. name =  Poly(dipropyl fumarate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polydipropylfumarate.html
+-------------------------------------------------------------------------------
+10. name = Carbonates , url = https://polymerdatabase.com/polymer%20index/Polycarbonates.html
+-------------------------------------------------------------------------------
+<Response [404]>
+-------------------------------------------------------------------------------
+11. name = Cellulose Derivatives, url = https://polymerdatabase.com/polymer%20index/Cellulose.html
+-------------------------------------------------------------------------------
+1. name =  Cellulose Acetate, url = https://polymerdatabase.com/polymer%20index/../polymers/Cellulose Acetate.html
+2. name =  Methyl Cellulose, url = https://polymerdatabase.com/polymer%20index/../polymers/Methyl Cellulose.html
+3. name =  Ethyl Cellulose , url = https://polymerdatabase.com/polymer%20index/../polymers/Ethyl Cellulose.html
+-------------------------------------------------------------------------------
+12. name = Chloroolefins, url = https://polymerdatabase.com/polymer%20index/polyhaloolefins.html
+-------------------------------------------------------------------------------
+1. name =  Poly(chlorotrifluoroethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polychlorotrifluoroethylene.html
+2. name =  Poly(tetrafluoroethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytetrafluoroethylene.html
+3. name =  Poly(vinyl bromide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbromide.html
+4. name =  Poly(vinyl chloride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylchloride.html
+5. name =  Poly(vinyl fluoride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylfluoride.html
+6. name =  Poly(vinylidene chloride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenechloride.html
+7. name =  Poly(vinylidene fluoride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenefluoride.html
+-------------------------------------------------------------------------------
+13. name = α-Chloroacrylates , url = https://polymerdatabase.com/polymer%20index/Polychloroacrylates.html
+-------------------------------------------------------------------------------
+<Response [404]>
+-------------------------------------------------------------------------------
+14. name = Cyanoacrylates , url = https://polymerdatabase.com/polymer%20index/polycyanoacrylates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(methyl cyanoacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethylcyanoacrylate.html
+2. name =  Poly(ethyl cyanoacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylcyanoacrylate.html
+3. name =  Poly(butyl cyanoacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylcyanoacrylate.html
+4. name =  Poly(hexyl cyanoacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyhexylcyanoacrylate.html
+5. name =  Poly(octyl cyanoacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoctylcyanoacrylate.html
+-------------------------------------------------------------------------------
+15. name = Dienes, url = https://polymerdatabase.com/polymer%20index/polydienes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(1,2-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly12-butadiene.html
+2. name =  Poly(1,4-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-butadiene.html
+3. name =  Polycyclopentene, url = https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html
+4. name =  Poly(1-ethyl-1,4-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly1-ethyl-14-butadiene.html
+5. name =  1,4-Polyisoprene (cis and trans) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisoprene.html
+6. name =  Poly(1,4-pentadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-pentadiene.html
+7. name =  Poly(1-pentenylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html
+-------------------------------------------------------------------------------
+16. name = Diglycidyl Ethers , url = https://polymerdatabase.com/polymer%20index/epoxyresins.html
+-------------------------------------------------------------------------------
+1. name =  Bisphenol-A diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html
+2. name =  Bisphenol-F diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html
+3. name =  Poly(bis-A diglycidyl ether- alt - ethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html
+4. name =  Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html
+5. name =  Poly(bis-A diglycidyl ether- alt - octamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html
+-------------------------------------------------------------------------------
+17. name = Epoxides , url = https://polymerdatabase.com/polymer%20index/epoxyresins.html
+-------------------------------------------------------------------------------
+1. name =  Bisphenol-A diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html
+2. name =  Bisphenol-F diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html
+3. name =  Poly(bis-A diglycidyl ether- alt - ethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html
+4. name =  Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html
+5. name =  Poly(bis-A diglycidyl ether- alt - octamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html
+-------------------------------------------------------------------------------
+18. name = Esters , url = https://polymerdatabase.com/polymer%20index/polyesters.html
+-------------------------------------------------------------------------------
+1. name =  Poly(Bisphenol A isophthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/PolybisphenolAisophthalate.html
+2. name =  Poly(Bisphenol A terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly(bisphenolAterephthalate).html
+3. name =  Poly(butylene adipate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneadipate.html
+4. name =  Poly(butylene isophthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneisophthalate.html
+5. name =  Poly(butylene sebacate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytetramethylenesebacate.html
+6. name =  Poly(butylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polybutylene succinate.html
+7. name =  Poly(butylene terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneterephthalate.html
+8. name =  Poly(ethylene sebacate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesebacate.html
+9. name =  Poly(ethylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyethylene succinate.html
+10. name =  Poly(caprolactone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycaprolactone.html
+11. name =  Poly(cyclohexylenedimethylene terephthalate), url = https://polymerdatabase.com/polymer%20index/../polymers/Polycyclohexanedimethylene terephthalate.html
+12. name =  Poly(ethylene adipate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneadipate.html
+13. name =  Poly(ethylene isophthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneisophthalate.html
+14. name =  Poly(ethylene naphthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylenenaphthalate.html
+15. name =  Poly(ethylene phthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylenephthalate.html
+16. name =  Poly(ethylene terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneterephthalate.html
+17. name =  Polyglycolide , url = https://polymerdatabase.com/polymer%20index/../polymers/polyglycolide.html
+18. name =  Poly(hexylene sebacate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylenesebacate.html
+19. name =  Poly(hexylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexylene succinate.html
+20. name =  Poly(3-hydroxybutyrate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/poly3-hydroxybutyrate.html
+21. name =  Poly(4-hydroxybutyrate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly(4-hydroxybutyrate).html
+22. name =  Polylactic acid , url = https://polymerdatabase.com/polymer%20index/../polymers/polylacticacid.html
+23. name =  Poly(propylene adipate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneadipate.html
+24. name =  Poly(trimethylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polypropylene succinate.html
+25. name =  Poly(trimethylene terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytrimethyleneterephthalate.html
+-------------------------------------------------------------------------------
+19. name = Ethers , url = https://polymerdatabase.com/polymer%20index/polyglycols.html
+-------------------------------------------------------------------------------
+1. name =  Polyacetal - Polyoxymethylene  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacetal.html
+2. name =  Poly(3-butoxypropylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly3-butoxypropylene oxide.html
+3. name =  Poly(epichlorohydrin) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyepichlorohydrin.html
+4. name =  Poly(ethylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneglycol.html
+5. name =  Poly(hexamethylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylene oxide.html
+6. name =  Poly(3-methoxypropylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyglycidyl methyl ether.html
+7. name =  Poly[oxy(hexyloxymethyl)ethylene] , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-(hexoxymethyl)oxirane.html
+8. name =  Poly(oxymethylene-oxyethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxyethylene.html
+9. name =  Poly(oxymethylene-oxytetramethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxytetramethylene.html
+10. name =  Poly(propylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneglycol.html
+11. name =  Poly(tetrahydrofuran) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytetrahydrofuran.html
+12. name =  Poly(trimethylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytrimethylene glycol.html
+13. name =  Poly[1,1-bis(chloromethyl)trimethylene oxide] , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis(chloromethyl)trimethylene oxide.html
+-------------------------------------------------------------------------------
+20. name = Ether Cellulose, url = https://polymerdatabase.com/polymer%20index/Cellulose.html
+-------------------------------------------------------------------------------
+1. name =  Cellulose Acetate, url = https://polymerdatabase.com/polymer%20index/../polymers/Cellulose Acetate.html
+2. name =  Methyl Cellulose, url = https://polymerdatabase.com/polymer%20index/../polymers/Methyl Cellulose.html
+3. name =  Ethyl Cellulose , url = https://polymerdatabase.com/polymer%20index/../polymers/Ethyl Cellulose.html
+-------------------------------------------------------------------------------
+21. name = (Ether)ketones , url = https://polymerdatabase.com/polymer%20index/polyketones.html
+-------------------------------------------------------------------------------
+1. name =  PEK - Poly(ether ketone)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetherketone.html
+2. name =  PEKK - Poly(ether ketone ketone)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetherketoneketone.html
+3. name =  PEEK - Poly(ether ether ketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetheretherketone.html
+4. name =  Poly(ethyleneketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneketone.html
+5. name =  Poly(propyleneketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneketone.html
+-------------------------------------------------------------------------------
+22. name = Ethersulfones , url = https://polymerdatabase.com/polymer%20index/polyethersulfones.html
+-------------------------------------------------------------------------------
+1. name =  Poly(ether ether sulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetherethersulfone.html
+2. name =  Poly(ethersulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethersulfone.html
+3. name =  Poly(phenylsulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyphenylsulfone.html
+4. name =  Bisphenol A Polysulfone , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenolapolysulfone.html
+-------------------------------------------------------------------------------
+23. name = Fumarates, url = https://polymerdatabase.com/polymer%20index/polyfumarates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(dimethyl fumarate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polydimethylfumarate.html
+2. name =  Poly(dibutyl fumarate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polydibutylfumarate.html
+3. name =  Poly(diethyl fumarate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polydiethylfumarate.html
+4. name =  Poly(dipropyl fumarate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polydipropylfumarate.html
+-------------------------------------------------------------------------------
+24. name = Glycols & Glycidyl Ethers, url = https://polymerdatabase.com/polymer%20index/polyglycols.html
+-------------------------------------------------------------------------------
+1. name =  Polyacetal - Polyoxymethylene  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacetal.html
+2. name =  Poly(3-butoxypropylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly3-butoxypropylene oxide.html
+3. name =  Poly(epichlorohydrin) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyepichlorohydrin.html
+4. name =  Poly(ethylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneglycol.html
+5. name =  Poly(hexamethylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylene oxide.html
+6. name =  Poly(3-methoxypropylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyglycidyl methyl ether.html
+7. name =  Poly[oxy(hexyloxymethyl)ethylene] , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-(hexoxymethyl)oxirane.html
+8. name =  Poly(oxymethylene-oxyethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxyethylene.html
+9. name =  Poly(oxymethylene-oxytetramethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxytetramethylene.html
+10. name =  Poly(propylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneglycol.html
+11. name =  Poly(tetrahydrofuran) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytetrahydrofuran.html
+12. name =  Poly(trimethylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytrimethylene glycol.html
+13. name =  Poly[1,1-bis(chloromethyl)trimethylene oxide] , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis(chloromethyl)trimethylene oxide.html
+-------------------------------------------------------------------------------
+25. name = Halodienes, url = https://polymerdatabase.com/polymer%20index/polyhalodienes.html
+-------------------------------------------------------------------------------
+1. name =  PoIy(1-chloro-1-butenylene) (Polychloroprene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polychloroprene.html
+2. name =  Poly(1-bromo-1-butenylene) (Polybromoprene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly1-bromo-1-butenylene.html
+-------------------------------------------------------------------------------
+26. name = Haloolefins, url = https://polymerdatabase.com/polymer%20index/polyhaloolefins.html
+-------------------------------------------------------------------------------
+1. name =  Poly(chlorotrifluoroethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polychlorotrifluoroethylene.html
+2. name =  Poly(tetrafluoroethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytetrafluoroethylene.html
+3. name =  Poly(vinyl bromide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbromide.html
+4. name =  Poly(vinyl chloride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylchloride.html
+5. name =  Poly(vinyl fluoride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylfluoride.html
+6. name =  Poly(vinylidene chloride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenechloride.html
+7. name =  Poly(vinylidene fluoride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenefluoride.html
+-------------------------------------------------------------------------------
+27. name = Halostyrenes , url = https://polymerdatabase.com/polymer%20index/polyhalostyrenes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(4-bromostyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-bromostyrene.html
+2. name =  Poly(2-chlorostyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-chlorostyrene.html
+3. name =  Poly(3-chlorostyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly3-chlorostyrene.html
+4. name =  Poly(4-chlorostyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-chlorostyrene.html
+5. name =  Poly(2,5-difluorostyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly25-difluorostyrene.html
+6. name =  Poly(4-fluorostyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-fluorostyrene.html
+-------------------------------------------------------------------------------
+28. name = Hydroxyethers, url = https://polymerdatabase.com/polymer%20index/epoxyresins.html
+-------------------------------------------------------------------------------
+1. name =  Bisphenol-A diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html
+2. name =  Bisphenol-F diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html
+3. name =  Poly(bis-A diglycidyl ether- alt - ethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html
+4. name =  Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html
+5. name =  Poly(bis-A diglycidyl ether- alt - octamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html
+-------------------------------------------------------------------------------
+29. name = Hydroxy(meth)acrylates, url = https://polymerdatabase.com/polymer%20index/polyhydroxymethacrylates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(2-hydroxyethyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxyethyl acrylate.html
+2. name =  Poly(2-hydroxyethyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxyethyl-2-methylpropenoate.html
+3. name =  Poly(2-hydroxypropyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxypropylmethacrylate.html
+-------------------------------------------------------------------------------
+30. name = Isocyanates , url = https://polymerdatabase.com/polymer%20index/polyurethanes.html
+-------------------------------------------------------------------------------
+1. name =  Poly[(diethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  , url = https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatediethyleneglycol.html
+2. name =  Poly[(tetraethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  , url = https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatetetraethyleneglycol.html
+3. name =  Poly[(1,4-butanediol)-alt-(4,4'-diphenylmethane diisocyanate)] , url = https://polymerdatabase.com/polymer%20index/../polymers/butanedioldiphenylmethanediisocyanate.html
+4. name =  Poly[(ethylene glycol)-alt-(4,4'-diphenylmethane diisocyanate)] , url = https://polymerdatabase.com/polymer%20index/../polymers/ethyleneglycoldiphenylmethanediisocyanate.html
+5. name =  Poly[(polytetrahydrofuran 1000)-alt-(4,4'-diphenylmethane diisocyanate)] , url = https://polymerdatabase.com/polymer%20index/../polymers/PTMO-diphenylmethanediisocyanate.html
+-------------------------------------------------------------------------------
+31. name = Isophthalates, url = https://polymerdatabase.com/polymer%20index/polyisophthalate.html
+-------------------------------------------------------------------------------
+1. name =  Poly(Bisphenol A isophthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/PolybisphenolAisophthalate.html
+2. name =  Poly(butylene isophthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneisophthalate.html
+3. name =  Poly(ethylene isophthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneisophthalate.html
+-------------------------------------------------------------------------------
+32. name = Isoprenes , url = https://polymerdatabase.com/polymer%20index/polydienes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(1,2-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly12-butadiene.html
+2. name =  Poly(1,4-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-butadiene.html
+3. name =  Polycyclopentene, url = https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html
+4. name =  Poly(1-ethyl-1,4-butadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly1-ethyl-14-butadiene.html
+5. name =  1,4-Polyisoprene (cis and trans) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisoprene.html
+6. name =  Poly(1,4-pentadiene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-pentadiene.html
+7. name =  Poly(1-pentenylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html
+-------------------------------------------------------------------------------
+33. name = Itaconates , url = https://polymerdatabase.com/polymer%20index/polyitaconates.html
+-------------------------------------------------------------------------------
+1. name =  Poly[dimethyl itaconate] , url = https://polymerdatabase.com/polymer%20index/../polymers/polydimethylitaconate.html
+2. name =  Poly[di(n-propyl) itaconate]  , url = https://polymerdatabase.com/polymer%20index/../polymers/polydin-propylitaconate.html
+3. name =  Poly[di(n-butyl) itaconate] , url = https://polymerdatabase.com/polymer%20index/../polymers/polydin-butylitaconate.html
+4. name =  Poly[di(n-hexyl) itaconate] , url = https://polymerdatabase.com/polymer%20index/../polymers/polydin-hexylitaconate.html
+-------------------------------------------------------------------------------
+34. name = Ketones , url = https://polymerdatabase.com/polymer%20index/polyketones.html
+-------------------------------------------------------------------------------
+1. name =  PEK - Poly(ether ketone)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetherketone.html
+2. name =  PEKK - Poly(ether ketone ketone)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetherketoneketone.html
+3. name =  PEEK - Poly(ether ether ketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetheretherketone.html
+4. name =  Poly(ethyleneketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneketone.html
+5. name =  Poly(propyleneketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneketone.html
+-------------------------------------------------------------------------------
+35. name = Lactams , url = https://polymerdatabase.com/polymer%20index/polyamides.html
+-------------------------------------------------------------------------------
+1. name =  Nylon 3 - Poly(propiolactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon3.html
+2. name =  Nylon 6 - Poly(caprolactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6.html
+3. name =  Nylon 8 - Polycapryllactam  , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon8.html
+4. name =  Nylon 10 - Poly(decano-10-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon10.html
+5. name =  Nylon 11 - Poly(undecano-11-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon11.html
+6. name =  Nylon 12 - Poly(dodecano-12-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon12.html
+7. name =  Nylon 4,6 - Poly(tetramethylene adipamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon4-6.html
+8. name =  Nylon 6,6 - Poly(hexamethylene adipamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon66.html
+9. name =  Nylon 6,9 - Poly(hexamethylene azelamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6-9.html
+10. name =  Nylon 6,10 - Poly(hexamethylene sebacamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6-10.html
+11. name =  Nylon 6,12 - Poly(hexamethylene dodecanediamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon612.html
+12. name =  Nylon 10,10 - Poly(decamethylene sebacamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon10-10.html
+13. name =  Poly(hexamethylene isophthalamide), PA 6I, url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylisophthalamide.html
+14. name =  Poly(hexamethylene teraphthalamide), PA 6T, url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylteraphthalamide.html
+15. name =  Kevlar - Polyaramide  , url = https://polymerdatabase.com/polymer%20index/../polymers/kevlar.html
+16. name =  Nomex - Poly(m-phenylene terephthalamide), url = https://polymerdatabase.com/polymer%20index/../polymers/polym-phenyleneterephthalamide.html
+17. name =  Poly(nonanmethylene teraphthalamide), PA 9T, url = https://polymerdatabase.com/polymer%20index/../polymers/Polynonanediylteraphthalamide.html
+-------------------------------------------------------------------------------
+36. name = Methacrylamides, url = https://polymerdatabase.com/polymer%20index/polymethacrylamides.html
+-------------------------------------------------------------------------------
+1. name =  Poly(N-acetylmethacrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyn-acetylmethacrylamide.html
+2. name =  Poly(N-benzyl methacrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyn-benzylmethacrylamide.html
+3. name =  Poly(methacrylamide), url = https://polymerdatabase.com/polymer%20index/../polymers/Polymethacrylamide.html
+4. name =  Poly(N-tert-butylmethacrylamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/PolyN-tert-butylmethacrylamide.html
+-------------------------------------------------------------------------------
+37. name = Methacrylates , url = https://polymerdatabase.com/polymer%20index/polymethacrylates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(methacrylic acid) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethacrylicacid.html
+2. name =  Poly(benzyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybenzylmethacrylate.html
+3. name =  Poly(butyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylmethacrylate.html
+4. name =  Poly(cyclohexyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylmethacrylate.html
+5. name =  Poly(decylmethacrylate), url = https://polymerdatabase.com/polymer%20index/../polymers/polydecylmethacrylate.html
+6. name =  Poly(dodecylmethacrylate), url = https://polymerdatabase.com/polymer%20index/../polymers/polydodecylmethacrylate.html
+7. name =  Poly(2-ethoxyethyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-ethoxyethylmethacrylate.html
+8. name =  Poly(ethyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylmethacrylate.html
+9. name =  Poly(hexyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyhexylmethacrylate.html
+10. name =  Poly(2-hydroxyethyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxyethyl-2-methylpropenoate.html
+11. name =  Poly(2-hydroxypropyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxypropylmethacrylate.html
+12. name =  Poly(isobutyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylmethacrylate.html
+13. name =  Poly(isopropyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylmethacrylate.html
+14. name =  Poly(methyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethylmethacrylate.html
+15. name =  Poly(octadecyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoctadecylmethacrylate.html
+16. name =  Poly(octyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoctylmethacrylate.html
+17. name =  Poly(2-phenylethyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyphenylethylmethacrylate.html
+18. name =  Poly(phenyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyphenylmethacrylate.html
+19. name =  Poly(propyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropylmethacrylate.html
+20. name =  Poly(2-chloroethyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-chloroethylmethacrylate.html
+21. name =  Poly(sec-butyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polysec-butyl methacrylate.html
+22. name = Poly(4-tert-butylcyclohexyl methacrylate), url = https://polymerdatabase.com/polymer%20index/../polymers/Poly4-tert-butylcyclohexyl methacrylate.html
+23. name =  Poly(tert-butyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylmethacrylate.html
+24. name =  Poly(2,2,3,3-tetrafluoropropyl methacrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytetrafluoropropyl methacrylate.html
+-------------------------------------------------------------------------------
+38. name = Methylenesuccinates , url = https://polymerdatabase.com/polymer%20index/polyitaconates.html
+-------------------------------------------------------------------------------
+1. name =  Poly[dimethyl itaconate] , url = https://polymerdatabase.com/polymer%20index/../polymers/polydimethylitaconate.html
+2. name =  Poly[di(n-propyl) itaconate]  , url = https://polymerdatabase.com/polymer%20index/../polymers/polydin-propylitaconate.html
+3. name =  Poly[di(n-butyl) itaconate] , url = https://polymerdatabase.com/polymer%20index/../polymers/polydin-butylitaconate.html
+4. name =  Poly[di(n-hexyl) itaconate] , url = https://polymerdatabase.com/polymer%20index/../polymers/polydin-hexylitaconate.html
+-------------------------------------------------------------------------------
+39. name = α-Methylstyrene , url = https://polymerdatabase.com/polymer%20index/polystyrenes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(2-methoxystyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-methoxystyrene.html
+2. name =  Poly(α-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polya-methylstyrene.html
+3. name =  Poly(2-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-methylstyrene.html
+4. name =  Poly(3-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly3-methylstyrene.html
+5. name =  Poly(4-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-methylstyrene.html
+6. name =  Polystyrene , url = https://polymerdatabase.com/polymer%20index/../polymers/polystyrene.html
+7. name =  Poly(4-tert-butylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-tert-butylstyrene.html
+-------------------------------------------------------------------------------
+40. name = Olefins , url = https://polymerdatabase.com/polymer%20index/polyalkenes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(butylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylene.html
+2. name =  Poly(butyl ethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylethylene.html
+3. name =  Poly(cyclohexylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylethylene.html
+4. name =  Poly(ethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylene.html
+5. name =  Poly(heptylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polynonene.html
+6. name =  Poly(hexylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoctene.html
+7. name =  Poly(isobutene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisobutene.html
+8. name =  Poly(isobutylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylethylene.html
+9. name =  Poly(isopropylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylethylene.html
+10. name =  Poly(2-methylbutene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyethypropylene.html
+11. name =  Poly(octylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polydecene.html
+12. name =  Poly(pentylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyheptene.html
+13. name =  Poly(propylene, url = https://polymerdatabase.com/polymer%20index/../polymers/polypropylene.html
+14. name =  Poly(propylethylene), url = https://polymerdatabase.com/polymer%20index/../polymers/polypentene.html
+15. name =  Poly(tert-butylethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylethylene.html
+-------------------------------------------------------------------------------
+41. name = Oxyalkylenes, url = https://polymerdatabase.com/polymer%20index/polyglycols.html
+-------------------------------------------------------------------------------
+1. name =  Polyacetal - Polyoxymethylene  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacetal.html
+2. name =  Poly(3-butoxypropylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly3-butoxypropylene oxide.html
+3. name =  Poly(epichlorohydrin) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyepichlorohydrin.html
+4. name =  Poly(ethylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneglycol.html
+5. name =  Poly(hexamethylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylene oxide.html
+6. name =  Poly(3-methoxypropylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyglycidyl methyl ether.html
+7. name =  Poly[oxy(hexyloxymethyl)ethylene] , url = https://polymerdatabase.com/polymer%20index/../polymers/Poly2-(hexoxymethyl)oxirane.html
+8. name =  Poly(oxymethylene-oxyethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxyethylene.html
+9. name =  Poly(oxymethylene-oxytetramethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxytetramethylene.html
+10. name =  Poly(propylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneglycol.html
+11. name =  Poly(tetrahydrofuran) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytetrahydrofuran.html
+12. name =  Poly(trimethylene glycol) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytrimethylene glycol.html
+13. name =  Poly[1,1-bis(chloromethyl)trimethylene oxide] , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis(chloromethyl)trimethylene oxide.html
+-------------------------------------------------------------------------------
+42. name = Nitriles , url = https://polymerdatabase.com/polymer%20index/polynitriles.html
+-------------------------------------------------------------------------------
+1. name =  Poly(acrylonitrile) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacrylonitrile.html
+2. name =  Poly(methacrylonitrile) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethacrylonitrile.html
+-------------------------------------------------------------------------------
+43. name = Nylons, url = https://polymerdatabase.com/polymer%20index/polyamides.html
+-------------------------------------------------------------------------------
+1. name =  Nylon 3 - Poly(propiolactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon3.html
+2. name =  Nylon 6 - Poly(caprolactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6.html
+3. name =  Nylon 8 - Polycapryllactam  , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon8.html
+4. name =  Nylon 10 - Poly(decano-10-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon10.html
+5. name =  Nylon 11 - Poly(undecano-11-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon11.html
+6. name =  Nylon 12 - Poly(dodecano-12-lactam) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon12.html
+7. name =  Nylon 4,6 - Poly(tetramethylene adipamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon4-6.html
+8. name =  Nylon 6,6 - Poly(hexamethylene adipamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon66.html
+9. name =  Nylon 6,9 - Poly(hexamethylene azelamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6-9.html
+10. name =  Nylon 6,10 - Poly(hexamethylene sebacamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon6-10.html
+11. name =  Nylon 6,12 - Poly(hexamethylene dodecanediamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon612.html
+12. name =  Nylon 10,10 - Poly(decamethylene sebacamide) , url = https://polymerdatabase.com/polymer%20index/../polymers/nylon10-10.html
+13. name =  Poly(hexamethylene isophthalamide), PA 6I, url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylisophthalamide.html
+14. name =  Poly(hexamethylene teraphthalamide), PA 6T, url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylteraphthalamide.html
+15. name =  Kevlar - Polyaramide  , url = https://polymerdatabase.com/polymer%20index/../polymers/kevlar.html
+16. name =  Nomex - Poly(m-phenylene terephthalamide), url = https://polymerdatabase.com/polymer%20index/../polymers/polym-phenyleneterephthalamide.html
+17. name =  Poly(nonanmethylene teraphthalamide), PA 9T, url = https://polymerdatabase.com/polymer%20index/../polymers/Polynonanediylteraphthalamide.html
+-------------------------------------------------------------------------------
+44. name = Phenoxy, url = https://polymerdatabase.com/polymer%20index/epoxyresins.html
+-------------------------------------------------------------------------------
+1. name =  Bisphenol-A diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html
+2. name =  Bisphenol-F diglycidyl ether epoxy resin , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html
+3. name =  Poly(bis-A diglycidyl ether- alt - ethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html
+4. name =  Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html
+5. name =  Poly(bis-A diglycidyl ether- alt - octamethylenediamine) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html
+-------------------------------------------------------------------------------
+45. name = Phenylenes , url = https://polymerdatabase.com/polymer%20index/polyphenylenes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(p-phenylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyp-phenylene.html
+2. name =  Poly(p-phenylene vinylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyphenylene%20vinylene.html
+3. name =  Poly(p-xylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyp-xylene.html
+4. name =  Poly(2-chloro-p-xylylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-chloro-p-xylylene.html
+-------------------------------------------------------------------------------
+46. name = Phenylethers , url = https://polymerdatabase.com/polymer%20index/polyphenylethers.html
+-------------------------------------------------------------------------------
+1. name =  Poly(2,6-dimethyl-p-phenylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly26-dimethyl-p-phenyleneoxide.html
+2. name =  Poly(2,6-diphenyl-p-phenylene oxide) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly26-diphenyl-p-phenyleneoxide.html
+3. name =  Poly(p-phenylene oxide), url = https://polymerdatabase.com/polymer%20index/../polymers/polyphenyleneoxide.html
+-------------------------------------------------------------------------------
+47. name = Phenylsulfones , url = https://polymerdatabase.com/polymer%20index/polyethersulfones.html
+-------------------------------------------------------------------------------
+1. name =  Poly(ether ether sulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetherethersulfone.html
+2. name =  Poly(ethersulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethersulfone.html
+3. name =  Poly(phenylsulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyphenylsulfone.html
+4. name =  Bisphenol A Polysulfone , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenolapolysulfone.html
+-------------------------------------------------------------------------------
+48. name = Phenylthioethers , url = https://polymerdatabase.com/polymer%20index/polysulfides.html
+-------------------------------------------------------------------------------
+1. name =  Poly(thio-1,4-phenylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-phenylenesulfide.html
+2. name =  Poly(ethylene sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesulfide.html
+3. name =  Poly(propylene sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropylenesulfide.html
+-------------------------------------------------------------------------------
+49. name = Propenoates , url = https://polymerdatabase.com/polymer%20index/polyacrylates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(acrylic acid) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyacrylicacid.html
+2. name =  Poly(benzyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybenzylacrylate.html
+3. name =  Poly(butyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylacrylate.html
+4. name =  Poly(4-chlorophenyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-chlorophenylacrylate.html
+5. name =  Poly(2-cyanoethyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-cyanoethylacrylate.html
+6. name =  Poly(cyanomethyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycyanomethylacrylate.html
+7. name =  Poly(cyclohexyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylacrylate.html
+8. name =  Poly(ethyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylacrylate.html
+9. name =  Poly(2-ethylhexyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-ethylhexylacrylate.html
+10. name =  Poly(hexyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyhexylacrylate.html
+11. name =  Poly(isobutyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylacrylate.html
+12. name =  Poly(isopropyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylacrylate.html
+13. name =  Poly(methyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethylacrylate.html
+14. name =  Poly(octyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyoctylacrylate.html
+15. name =  Poly(propyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropylacrylate.html
+16. name =  Poly(sec-butyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polysec-butylacrylate.html
+17. name =  Poly(stearyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polystearylacrylate.html
+18. name =  Poly(tert-butyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylacrylate.html
+19. name =  Poly(2,2,3,3-Tetrafluoropropyl acrylate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytetrafluoropropyl acrylate.html
+-------------------------------------------------------------------------------
+50. name = Sebacates, url = https://polymerdatabase.com/polymer%20index/polysebacates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(butylene sebacate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polytetramethylenesebacate.html
+2. name =  Poly(ethylene sebacate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesebacate.html
+3. name =  Poly(hexylene sebacate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylenesebacate.html
+-------------------------------------------------------------------------------
+51. name = Siloxanes, url = https://polymerdatabase.com/polymer%20index/polysiloxanes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(diethylsiloxane) (PDES), url = https://polymerdatabase.com/polymer%20index/../polymers/Polydiethylsiloxane.html
+2. name =  Poly(dimethylsiloxane) (PDMS), url = https://polymerdatabase.com/polymer%20index/../polymers/Polydimethylsiloxane.html
+3. name =  Poly(methylphenylsiloxane) (PMPS), url = https://polymerdatabase.com/polymer%20index/../polymers/Polymethylphenylsiloxane.html
+-------------------------------------------------------------------------------
+52. name = Styrenes, url = https://polymerdatabase.com/polymer%20index/polystyrenes.html
+-------------------------------------------------------------------------------
+1. name =  Poly(2-methoxystyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-methoxystyrene.html
+2. name =  Poly(α-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polya-methylstyrene.html
+3. name =  Poly(2-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly2-methylstyrene.html
+4. name =  Poly(3-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly3-methylstyrene.html
+5. name =  Poly(4-methylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-methylstyrene.html
+6. name =  Polystyrene , url = https://polymerdatabase.com/polymer%20index/../polymers/polystyrene.html
+7. name =  Poly(4-tert-butylstyrene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-tert-butylstyrene.html
+-------------------------------------------------------------------------------
+53. name = Succinates, url = https://polymerdatabase.com/polymer%20index/Polysuccinates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(1,4-butylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polybutylene succinate.html
+2. name =  Poly(ethylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyethylene succinate.html
+3. name =  Poly(1,6-hexylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyhexylene succinate.html
+4. name =  Poly(trimethylene succinate)  , url = https://polymerdatabase.com/polymer%20index/../polymers/Polypropylene succinate.html
+-------------------------------------------------------------------------------
+54. name = Sulfones, url = https://polymerdatabase.com/polymer%20index/polyethersulfones.html
+-------------------------------------------------------------------------------
+1. name =  Poly(ether ether sulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyetherethersulfone.html
+2. name =  Poly(ethersulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethersulfone.html
+3. name =  Poly(phenylsulfone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyphenylsulfone.html
+4. name =  Bisphenol A Polysulfone , url = https://polymerdatabase.com/polymer%20index/../polymers/bisphenolapolysulfone.html
+-------------------------------------------------------------------------------
+55. name = Terephthalates, url = https://polymerdatabase.com/polymer%20index/polyterephthalates.html
+-------------------------------------------------------------------------------
+1. name =  Poly(Bisphenol A terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly(bisphenolAterephthalate).html
+2. name =  Poly(butylene terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneterephthalate.html
+3. name =  Poly(cyclohexylenedimethylene terephthalate), url = https://polymerdatabase.com/polymer%20index/../polymers/Polycyclohexanedimethylene terephthalate.html
+4. name =  Poly(ethylene terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneterephthalate.html
+5. name =  Poly(trimethylene terephthalate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytrimethyleneterephthalate.html
+-------------------------------------------------------------------------------
+56. name = Thioethers / Sulfides, url = https://polymerdatabase.com/polymer%20index/polysulfides.html
+-------------------------------------------------------------------------------
+1. name =  Poly(thio-1,4-phenylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly14-phenylenesulfide.html
+2. name =  Poly(ethylene sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesulfide.html
+3. name =  Poly(propylene sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polypropylenesulfide.html
+-------------------------------------------------------------------------------
+57. name = Urethanes , url = https://polymerdatabase.com/polymer%20index/polyurethanes.html
+-------------------------------------------------------------------------------
+1. name =  Poly[(diethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  , url = https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatediethyleneglycol.html
+2. name =  Poly[(tetraethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  , url = https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatetetraethyleneglycol.html
+3. name =  Poly[(1,4-butanediol)-alt-(4,4'-diphenylmethane diisocyanate)] , url = https://polymerdatabase.com/polymer%20index/../polymers/butanedioldiphenylmethanediisocyanate.html
+4. name =  Poly[(ethylene glycol)-alt-(4,4'-diphenylmethane diisocyanate)] , url = https://polymerdatabase.com/polymer%20index/../polymers/ethyleneglycoldiphenylmethanediisocyanate.html
+5. name =  Poly[(polytetrahydrofuran 1000)-alt-(4,4'-diphenylmethane diisocyanate)] , url = https://polymerdatabase.com/polymer%20index/../polymers/PTMO-diphenylmethanediisocyanate.html
+-------------------------------------------------------------------------------
+58. name = Vinylalcohols, url = https://polymerdatabase.com/polymer%20index/polyvinylalcohols.html
+-------------------------------------------------------------------------------
+1. name =  Poly(vinyl alcohol) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylalcohol.html
+2. name =  Poly(4-vinyl phenol) , url = https://polymerdatabase.com/polymer%20index/../polymers/poly4-hydroxystyrene.html
+3. name =  Poly(vinyl butyral) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbutyral.html
+4. name =  Poly(vinyl formal) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylformal.html
+-------------------------------------------------------------------------------
+59. name = Vinylesters, url = https://polymerdatabase.com/polymer%20index/polyvinylesters.html
+-------------------------------------------------------------------------------
+1. name =  Poly(vinyl acetate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylacetate.html
+2. name =  Poly(vinyl benzoate) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polyvinylbenzoate.html
+3. name =  Poly(vinyl butyrate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbutyrate.html
+4. name =  Poly(vinyl caproate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylhexanoate.html
+5. name =  Poly(vinyl formate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylformate.html
+6. name =  Poly(vinyl propionate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylpropionate.html
+7. name =  Poly(vinyl stearate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylstearate.html
+8. name =  Poly(vinyl valerate) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylvalerate.html
+-------------------------------------------------------------------------------
+60. name = Vinylethers, url = https://polymerdatabase.com/polymer%20index/Polyvinylethers.html
+-------------------------------------------------------------------------------
+<Response [404]>
+-------------------------------------------------------------------------------
+61. name = Vinylhalides, url = https://polymerdatabase.com/polymer%20index/polyhaloolefins.html
+-------------------------------------------------------------------------------
+1. name =  Poly(chlorotrifluoroethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/Polychlorotrifluoroethylene.html
+2. name =  Poly(tetrafluoroethylene) , url = https://polymerdatabase.com/polymer%20index/../polymers/polytetrafluoroethylene.html
+3. name =  Poly(vinyl bromide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbromide.html
+4. name =  Poly(vinyl chloride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylchloride.html
+5. name =  Poly(vinyl fluoride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylfluoride.html
+6. name =  Poly(vinylidene chloride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenechloride.html
+7. name =  Poly(vinylidene fluoride) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenefluoride.html
+-------------------------------------------------------------------------------
+62. name = Vinylketones, url = https://polymerdatabase.com/polymer%20index/polyvinylketones.html
+-------------------------------------------------------------------------------
+1. name =  Poly(vinyl ethyl ketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylethylketone.html
+2. name =  Poly(vinyl methyl ketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylmethylketone.html
+3. name =  Poly(methyl isopropenyl ketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polymethylisopropenylketone.html
+4. name =  Poly(vinyl phenyl ketone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylphenylketone.html
+5. name =  Poly(vinyl pyrrolidone) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylpyrrolidone.html
+-------------------------------------------------------------------------------
+63. name = Vinylsulfides, url = https://polymerdatabase.com/polymer%20index/polyvinylsulfides.html
+-------------------------------------------------------------------------------
+1. name =  Poly(vinyl butyl sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polybutylvinylhioether.html
+2. name =  Poly(vinyl ethyl sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyethylvinylthioether.html
+3. name =  Poly(vinyl methyl sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylmethylsulfide.html
+4. name =  Poly(vinyl phenyl sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylphenylsulfide.html
+5. name =  Poly(vinyl propyl sulfide) , url = https://polymerdatabase.com/polymer%20index/../polymers/polyvinylpropylsulfide.html

@@ -1,4 +1,3 @@
-from re import A
 import requests
 from bs4 import BeautifulSoup
 
@@ -13,6 +12,8 @@ class Sub_Polymer:
     def __init__(self, name, url):
         self.name = name
         self.url = url
+    def add_density(self, density):
+        self.density = density
 
 class Polymer:
     def __init__(self, name, url):
@@ -23,6 +24,22 @@ class Polymer:
         self.sub_polymer.append(Sub_Polymer(name, url))
 
 polymer_list = []
+
+def get_properties(url, ext, subpolymer_class):
+    try:
+        response = requests.get(url, ext)
+        response_text = response.text
+        soup = BeautifulSoup(response_text, "html.parser")
+        polymer_data = soup.find("div", {"id": "content"})
+        for node in polymer_data.find_all('a'):
+            if node.get('href').endswith(ext):
+                new_url = site_url + node.get("href")
+                subpolymer_class.add_density(name=node.text, url=new_url)    
+                print("{}. name = {}, url = {}".format(len(polymer_class.sub_polymer),
+                        polymer_class.sub_polymer[-1].name, polymer_class.sub_polymer[-1].url))
+    except:
+        # should implement better error handling but OK for now (most likely a 404!)
+        print(response)    
 
 def get_sub_polymers(url, ext, polymer_class):
     try:
@@ -68,8 +85,3 @@ def get_all_files_recursively(url, ext):
         return
 
 get_all_files_recursively(global_url, ext)
-
-#get_all_files_recursively(home_page_urls[-1], ext)
-
-#parent = [url + node.get("href") for node in soup.find_all('a') if node.get('href').endswith(ext)]
-#print(parent)
