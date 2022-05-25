@@ -1,0 +1,739 @@
+name,url,smiles,density,molar volume,solubility,molar cohesive energy,glass transition temperature,molecular weight rep unit,van der waals,entanglement molecular weight,index of refraction,cas,curly smiles
+ Poly(acrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyacrylamide.html,OC(=N)C=C,1.2,59.4,25.9,39800,436,0,38.6,14000,"1.49 
+							(?)",0,C{-}C{n+}(C(=O)N)
+ Poly(N-isopropyl acrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyn-isopropylacrylamide.html,C=CC(=O)NC(C)C,1.05,107.6,23.5,59400,402,0,68.83,23000,1.5,0,C{-}C{n+}(C(=O)NC(C)C)
+ Poly(N-octyl acrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyn-octylacrylamide.html,CCCCCCCCNC(=O)C=C,0.98,187.4,20.9,82200,228,0,120.22,57000,1.49,0,C{-}C{n+}(C(=O)NCCCCCCCC)
+ Poly(N-tert-butyl acrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyn-tert-butylacrylamide.html,C=CC(=O)NC(C)(C)C,1.03,123,22.4,61900,420,0,79.1,28200,1.5,0,C{-}C{n+}(C(=O)NC(C)(C)C)
+ Poly(N-phenyl acrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyn-phenylacrylamide.html,C=CC(=O)Nc1ccccc1,1.19,124,25.9,82900,-498,0,83.71,47000,1.61,0,C{-}C{n+}(C(=O)Nc1ccccc1)
+ Poly(N-sec-butyl acrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyn-sec-butylacrylamide.html,C=CC(=O)NC(C)CC,1.03,123.7,22.6,63200,393,0,79.1,28500,1.49,0,C{-}C{n+}(C(=O)NC(C)CC)
+ Poly(acrylic acid) ,https://polymerdatabase.com/polymer%20index/../polymers/polyacrylicacid.html,OC(=O)C=C,1.44,50,21.3,22700,380,0,36.23,6900,1.52,0,C{-}C{n+}(C(=O)O)
+ Poly(benzyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybenzylacrylate.html,C=CC(=O)OCc1ccccc1,1.19,135.7,20.3,55900,352,0,91.65,36000,1.57,0,C{-}C{n+}(C(=O)OCc1ccccc1)
+ Poly(butyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylacrylate.html,CCCCOC(=O)C=C,1.08,118.4,18.4,40300,229,0,76.76,18000,1.48,0,C{-}C{n+}(C(=O)OCCCC)
+ Poly(4-chlorophenyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-chlorophenylacrylate.html,C=CC(=O)Oc1ccc(cc1)Cl,1.1,134.2,21,59000,334,0,89.16,63000,1.58,0,C{-}C{n+}(C(=O)Oc1ccc(cc1)Cl)
+ Poly(2-cyanoethyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-cyanoethylacrylate.html,C=CC(=O)OCCC#N,1.26,99.3,23.7,55800,276,0,68.14,30000,1.5,0,C{-}C{n+}(C(=O)OCCC#N)
+ Poly(cyanomethyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polycyanomethylacrylate.html,C=CC(=O)OCC#N,1.34,83.2,25.1,52200,295,0,57.86,24000,1.5,0,C{-}C{n+}(C(=O)OCC#N)
+ Poly(cyclohexyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylacrylate.html,C=CC(=O)OC1CCCCC1,1.13,136.2,19,49000,286,0,90.05,22000,1.51,0,C{-}C{n+}(C(=O)OC1CCCCC1)
+ Poly(ethyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylacrylate.html,CCOC(=O)C=C,1.16,86.1,19.1,31300,254,0,56.2,9400,1.47,0,C{-}C{n+}(C(=O)OCC)
+ Poly(2-ethylhexyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-ethylhexylacrylate.html,CCCCC(COC(=O)C=C)CC,1,183.8,17.6,56800,222,0,117.87,39000,1.47,0,C{-}C{n+}(C(=O)OCC(CC)CCCC)
+ Poly(hexyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyhexylacrylate.html,CCCCCCOC(=O)C=C,1.04,150.7,18.1,49300,219,0,"
+							97.3",27200,1.48,0,C{-}C{n+}(C(=O)OCCCCCC)
+ Poly(isobutyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylacrylate.html,C=CC(=O)OCC(C)C,1.07,119.3,18,38600,243,0,76.76,17300,1.47,0,C{-}C{n+}(C(=O)OCC(C)C)
+ Poly(isopropyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylacrylate.html,CC(C)OC(=O)C=C,1.1,104,18.2,34100,264,0,"
+							66.5",13400,1.47,0,C{-}C{n+}(C(=O)OC(C)C)
+ Poly(methyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethylacrylate.html,COC(=O)C=C,1.23,70,19.6,26800,283,0,45.92,8400,1.48,0,C{-}C{n+}(C(=O)OC)
+ Poly(octyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoctylacrylate.html,CCCCCCCCOC(=O)C=C,1.01,183,17.9,58400,216,0,"
+							117.9",39400,1.47,0,C{-}C{n+}(C(=O)OCCCCCCCC)
+ Poly(propyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropylacrylate.html,CCCOC(=O)C=C,1.12,102.2,18.7,35700,234,0,66.48,13800,1.48,0,C{-}C{n+}(C(=O)OCCC)
+ Poly(sec-butyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polysec-butylacrylate.html,CC(OC(=O)C=C)CC,1.07,119.3,18,38600,250,0,76.76,17300,1.47,0,C{-}C{n+}(C(=O)OC(C)CC)
+ Poly(stearyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polystearylacrylate.html,"
+							CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C",0.94,344,17.4,104000,303,0,"
+							220.7",147000,1.48,0,"
+							C{-}C{n+}(C(=O)OCCCCCCCCCCCCCCCCCC)"
+ Poly(tert-butyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylacrylate.html,C=CC(=O)OC(C)(C)C,1.08,118.6,17.7,37100,314,0,76.76,17000,1.48,0,C{-}C{n+}(C(=O)OC(C)(C)C)
+" Poly(2,2,3,3-Tetrafluoropropyl acrylate) ",https://polymerdatabase.com/polymer%20index/../polymers/Polytetrafluoropropyl acrylate.html,"
+							FC(F)C(F)(F)COC(=O)C(=C)",1.54,119,16.5,31500,250,0,"
+							74.0",24700,1.41,0,"
+							C{-}C{n+}(C(=O)OCC(F)(F)C(F)F"
+ Poly(acrylonitrile) ,https://polymerdatabase.com/polymer%20index/../polymers/polyacrylonitrile.html,C=CC#N,1.17,46.4,26.3,32100,387,0,32.5,7900,1.51,0,C{-}C{n+}(C#N)
+ Poly(methacrylonitrile) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethacrylonitrile.html,CC(=C)C#N,1.09,61.8,23.3,33700,383,0,42.78,10300,1.53,0,C{-}C{n+}(C#N)(C)
+ Poly(butylene adipate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneadipate.html,OC(=O)CCCCC(=O)O.OCCCCO,1.18,170,19.7,66100,212,0,"
+							112.4",2050,1.49,0,O{-}CCCCOC(=O)CCCCC{n+}(=O)
+ Poly(ethylene adipate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneadipate.html,OC(=O)CCCCC(=O)O.OCCO,1.25,138.1,20.4,57300,234,0,91.84,2200,1.48,0,O{-}CCOC(=O)CCCCC{n+}(=O)
+ Poly(propylene adipate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneadipate.html,OC(=O)CCCCC(=O)O.OCCCO,1.21,154,20,61700,217,0,"
+							102", ,1.49,0,O{-}CCCOC(=O)CCCCC{n+}(=O)
+ Poly(butylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylene.html,CCC=C,0.86,65.5,16,16800,"
+							241",0,41.12,4600,1.47,0,C{-}C{n+}(CC)
+ Poly(butyl ethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylethylene.html,CCCCC=C,0.86,97.7,16.3,25900,226,0,"
+							61.7",8400,1.47,0,C{-}C{n+}(CCCC)
+ Poly(cyclohexylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylethylene.html,C=CC1CCCCC1,0.95,115.5,17.2,34200,380,0,74.97,"
+							44250",1.5,0,C{-}C{n+}(C1CCCCC1)
+ Poly(ethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylene.html,C=C,0.87,32.3,16.8,9100,"173, 239",0,20.56,1650,1.48,0,C{-}C{n+}
+ Poly(heptylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polynonene.html,CCCCCCCC=C,0.86,146,16.5,39600,220,0,"
+							92.5", ,1.47,0,C{-}C{n+}(CCCCCCC)
+ Poly(hexylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoctene.html,CCCCCCC=C,0.86,130,16.4,35000,218,0,"
+							82.2", ,1.47,0,C{-}C{n+}(CCCCCC)
+ Poly(isobutene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisobutene.html,CC(=C)C,0.87,64.7,15.4,15400,201,0,41.12,7600,1.49,0,C{-}C{n+}(C)(C)
+ Poly(isobutylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylethylene.html,C=CCC(C)C,0.85,98.6,15.7,24500,279,0,61.68,8200,1.46,0,C{-}(CC(C)C)C{n+}
+ Poly(isopropylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylethylene.html,C=CC(C)C,0.85,82.5,15.5,19900,292,0,51.4,6200,1.46,0,C{-}(C(C)C)C{n+}
+ Poly(2-methylbutene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyethypropylene.html,C=C(C)CC,0.87,80.9,15.7,20000,255,0,"
+							51.4",6200,1.48,0,C{-}(C)(CC)C{n+}
+ Poly(octylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polydecene.html,CCCCCCCCC=C,0.86,162,16.5,44100,226,0,"
+							102.8", ,1.47,0,C{-}(CCCCCCCC)C{n+}
+ Poly(pentylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyheptene.html,CCCCCC=C,0.86,114,16.4,30400,227,0,"
+							72.0", ,1.47,0,C{-}C{n+}(CCCCC)
+ Poly(propylene,https://polymerdatabase.com/polymer%20index/../polymers/polypropylene.html,CC=C,0.85,49.3,15.7,12200,261,0,30.84,3200,1.47,0,C{-}C{n+}(C)
+ Poly(propylethylene),https://polymerdatabase.com/polymer%20index/../polymers/polypentene.html,CCCC=C,0.86,81.6,16.3,21500,229,0,"
+							51.4",6300,1.47,0,C{-}C{n+}(CCC)
+ Poly(tert-butylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylethylene.html,C=CC(C)(C)C,0.86,97.9,15.4,23100,340,0,61.68,8100,1.48,0,C{-}C{n+}(C(C)(C)C)
+ Nylon 3 - Poly(propiolactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon3.html,C1CNC1=O,1.24,57.3,32,58900,380,0,37.99,3350,1.54,0,N{-}C(=O)CC{n+}
+ Nylon 6 - Poly(caprolactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon6.html,O=C1CCCCCN1,1.07,105.8,25,66300,324,0,68.83,2400,1.51,0,N{-}CCCCCC{n+}(=O)
+ Nylon 8 - Polycapryllactam  ,https://polymerdatabase.com/polymer%20index/../polymers/nylon8.html,O=C1CCCCCCCN1,1.02,138,23.1,73700,322,0,89.38,2300,1.5,0,N{-}C(=O)CCCCCCC{n+}
+ Nylon 10 - Poly(decano-10-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon10.html,NCCCCCCCCCC(=O)O,1,170,219,81800,314,0,"
+							109.9",2030,1.5,0,N{-}C(=O)CCCCCCCCC{n+}
+ Nylon 11 - Poly(undecano-11-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon11.html,NCCCCCCCCCCC(=O)O,0.98,186.5,21.5,85900,315,0,120.22,2000,1.5,0,N{-}C(=O)CCCCCCCCCC{n+}
+ Nylon 12 - Poly(dodecano-12-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon12.html,NCCCCCCCCCCCC(=O)O,0.97,202.6,21.1,90200,313,0,130.5,1950,1.5,0,N{-}C(=O)CCCCCCCCCCC{n+}
+" Nylon 4,6 - Poly(tetramethylene adipamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon4-6.html,OC(=O)CCCCC(=O)O.NCCCCN,1.11,179,26.5,126000,344,0,"
+							117.1", ,1.52,0,N{-}C(=O)CCCCC(=O)NCCCC{n+}
+" Nylon 6,6 - Poly(hexamethylene adipamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon66.html,NCCCCCCN.OC(=O)CCCCC(=O)O,1.07,211.5,25,133600,324,0,137.65,2200,1.52,0,N{-}C(=O)CCCCC(=O)NCCCCCC{n+}
+" Nylon 6,9 - Poly(hexamethylene azelamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon6-9.html,OC(=O)CCCCCCCC(=O)O.NCCCCCCN,1.03,260,23.5,144000,325,0,"
+							168.5",2100,1.51,0,N{-}C(=O)CCCCCCCC(=O)NCCCCCC{n+}
+" Nylon 6,10 - Poly(hexamethylene sebacamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon6-10.html,"
+							OC(=O)CCCCCCCCC(=O)O.NCCCCCCN",1.02,276.1,23.1,147000,321,0,"
+							178.8",2050,1.51,0,"
+							N{-}C(=O)CCCCCCCCC(=O)NCCCCCC{n+}"
+" Nylon 6,12 - Poly(hexamethylene dodecanediamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon612.html,NCCCCCCN.OC(=O)CCCCCCCCCCC(=O)O,1.01,308.4,22.4,155300,318,0,199.33,2000,1.5,0,N{-}C(=O)CCCCCCCCCCC(=O)NCCCCCC{n+}
+" Nylon 10,10 - Poly(decamethylene sebacamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon10-10.html,"
+							OC(=O)CCCCCCCCC(=O)O.NCCCCCCCCCCN",0.99,341,21.9,163500,314,0,"
+							219.9",1900,1.5,0,N{-}C(=O)CCCCCCCCC(=O)NCCCCCCCCCC{n+}
+" Poly(hexamethylene isophthalamide), PA 6I",https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylisophthalamide.html,NCCCCCCN.ClC(=O)c1cc(ccc1)C(=O)Cl,1.15,215,26,145000,390,0,"
+							142.1","
+",1.57,0,N{-}C(=O)c1cc(ccc1)C(=O)NCCCCCC{n+}
+" Poly(hexamethylene teraphthalamide), PA 6T",https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylteraphthalamide.html,NCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,1.15,215,26,145000,415,0,"
+							142.1","
+",1.57,0,N{-}C(=O)c1ccc(cc1)C(=O)NCCCCCC{n+}
+ Kevlar - Polyaramide  ,https://polymerdatabase.com/polymer%20index/../polymers/kevlar.html,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,1.28,186.5,28.6,152800,595,0,126.01,2900,1.65,0,N{-}c1ccc(cc1)NC(=O)c1ccc(cc1)C{n+}(=O)
+ Nomex - Poly(m-phenylene terephthalamide),https://polymerdatabase.com/polymer%20index/../polymers/polym-phenyleneterephthalamide.html,"
+							Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl",1.31,186.5,28.6,153000,510,0,"
+							126.0", ,1.65,0,"
+							N{-}c1cc(ccc1)NC(=O)c1cc(ccc1)C{n+}(=O)"
+" Poly(nonanmethylene teraphthalamide), PA 9T",https://polymerdatabase.com/polymer%20index/../polymers/Polynonanediylteraphthalamide.html,NCCCCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,1.1,264,24.3,155000,386,0,"
+							173","
+",1.55,0,N{-}C(=O)c1ccc(cc1)C(=O)NCCCCCCCCC{n+}
+ Poly(p-pentamethylenedibenzoic anhydride)  ,https://polymerdatabase.com/polymer%20index/../polymers/polyp-pentamethylenedibenzoicanhydride.html,OC(=O)c1ccc(cc1)CCCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,1.17,252.2,20.1,101900,334,0,163.71,,1.56,0,O{-}C(=O)c1ccc(cc1)CCCCCc1ccc(cc1)C{n+}(=O)
+ Poly(p-tetramethylenedibenzoic anhydride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyp-tetramethylenedibenzoicanhydride.html,OC(=O)c1ccc(cc1)CCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,1.19,236.1,20.3,97500,"322 
+							- 343",0,153.43,,1.57,0,O{-}C(=O)c1ccc(cc1)CCCCc1ccc(cc1)C{n+}(=O)
+ Poly(sebacic anhydride) ,https://polymerdatabase.com/polymer%20index/../polymers/polysebacicanhydride.html,OC(=O)CCCCCCCCC(=O)O.CC(=O)OC(=O)C,1.12,164.3,19.1,59700,256,0,103.4,1800,1.49,0,CurlySMILES
+ Poly(azelaic anhydride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyazelaicanhydride.html,OC(=O)CCCCCCCC(=O)O.CC(=O)OC(=O)C,1.15,148,19.3,55200,247,0,"
+							93.1","
+							 ","
+							1.50",0,O{-}C(=O)CCCCCCCC{n+}(=O)
+" Poly(1,2-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly12-butadiene.html,C=CC=C,0.92,59.1,16.3,15700,271,0,38.67,3050,1.52,0,C{-}C{n+}(C=C)
+" Poly(1,4-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-butadiene.html,C=CC=C,0.9,59.3,16.8,16800,178,0,38.67,3400,1.53,0,C{-}C=CC{n+}
+ Polycyclopentene,https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html,C1CC=CC1,0.9,75,"
+							16.8",21300,183,0,"
+							48.95", ,1.52,0,C{-}=CCCC{n+}
+" Poly(1-ethyl-1,4-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/Poly1-ethyl-14-butadiene.html,CCC=CC=C,0.91,90.6,17.2,26800,194,0,"
+							59.23",6400,1.49,0,C{-}(CC)=CCC{n+}
+" 1,4-Polyisoprene (cis and trans) ",https://polymerdatabase.com/polymer%20index/../polymers/polyisoprene.html,CC=CC=C,0.91,74.6,17.2,22200,200,0,48.95,4800,1.51,0,C{-}(C)=CCC{n+}
+" Poly(1,4-pentadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-pentadiene.html,C=CCC=C,0.89,76.3,16.1,19800,208,0,48.95,4400,1.51,0,C{-}C=CC{n+}(C)
+ Poly(1-pentenylene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html,C1CC=CC1,0.9,75,"
+							16.8",21300,183,0,"
+							48.95", ,1.52,0,C{-}=CCCC{n+}
+ Poly(dimethyl fumarate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polydimethylfumarate.html,COC(=O)/C=C/C(=O)OC,1.34,107.6,20.4,44800,374,0,71.28,16500,1.48,0,C{-}(C(=O)OC)C{n+}(C(=O)OC)
+ Poly(dibutyl fumarate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polydibutylfumarate.html,"
+							CCCCOC(=O)/C=C/C(=O)OCCCC",1.12,205,18.7,71500,242,0,"
+							133", ,1.48,0,"
+							C{-}(C(=O)OCCCC)C{n+}(C(=O)OCCCC)"
+ Poly(diethyl fumarate) ,https://polymerdatabase.com/polymer%20index/../polymers/polydiethylfumarate.html,CCOC(=O)/C=C/C(=O)OCC,1.23,139.9,19.6,53600,293,0,91.84,25000,1.48,0,C{-}(C(=O)OCC)C{n+}(C(=O)OCC)
+ Poly(dipropyl fumarate) ,https://polymerdatabase.com/polymer%20index/../polymers/polydipropylfumarate.html,"
+							CCCOC(=O)/C=C/C(=O)OCCC",1.16,172.2,19.1,62500,266,0,"
+							112.4",35800,1.48,0,"
+							C{-}(C(=O)OCCC)C{n+}(C(=O)OCCC)"
+ Cellulose Acetate,https://polymerdatabase.com/polymer%20index/../polymers/Cellulose Acetate.html,N/A, ,"
+							N/A", , , ,0,"
+							 ", , ,0,CurlySMILES
+ Methyl Cellulose,https://polymerdatabase.com/polymer%20index/../polymers/Methyl Cellulose.html,N/A, , , , , ,0,"
+							 ", , ,0,CurlySMILES
+ Ethyl Cellulose ,https://polymerdatabase.com/polymer%20index/../polymers/Ethyl Cellulose.html,N/A, ,"
+							N/A", , , ,0,"
+							 ", , ,0,CurlySMILES
+ Poly(chlorotrifluoroethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polychlorotrifluoroethylene.html,FC(=C(F)F)Cl,2.08,56,16.1,14500,365,0,"
+							34.48",11100,1.44,0,"
+							C{-}(Cl)(F)C{n+}(F)(F)"
+ Poly(tetrafluoroethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polytetrafluoroethylene.html,FC(=C(F)F)F,2.1,47.6,12.9,7900,385,0,28.11,5400,1.36,0,C{-}(F)(F)C{n+}(F)(F)
+ Poly(vinyl bromide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbromide.html,BrC=C,2.18,49.2,19.1,17900,377,0,33.43,7700,1.62,0,C{-}(Br)C{n+}
+ Poly(vinyl chloride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylchloride.html,ClC=C,1.38,45.3,19.1,16600,350,0,28.82,5750,1.53,0,C{-}(Cl)C{n+}
+ Poly(vinyl fluoride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylfluoride.html,FC=C,1.26,36.9,15.1,8500,"269, 338",0,22.45,1650,1.41,0,C{-}(F)C{n+}
+ Poly(vinylidene chloride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenechloride.html,ClC(=C)Cl,1.71,56.8,20,22800,"254, 295",0,37.07,14600,1.61,0,C{-}(Cl)(Cl)C{n+}
+ Poly(vinylidene fluoride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenefluoride.html,FC(=C)F,1.6,39.9,15.6,9700,242,0,24.33,2600,1.41,0,C{-}(F)(F)C{n+}
+ Poly(methyl cyanoacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethylcyanoacrylate.html,COC(=O)C(=C)C#N,1.35,82.5,24.7,54000,"
+							425",0,57.86,24100,1.52,0,C{-}C{n+}(C#N)(C(=O)OC)
+ Poly(ethyl cyanoacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylcyanoacrylate.html,CCOC(=O)C(=C)C#N,1.27,98.6,23.4,54000,416,0,68.14,29500,1.51,0,C{-}C{n+}(C#N)(C(=O)OCC)
+ Poly(butyl cyanoacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylcyanoacrylate.html,CCCCOC(=O)C(=C)C#N,1.17,130.9,21.8,62000,344,0,88.7,42000,1.5,0,C{-}C{n+}(C#N)(C(=O)OCCCC)
+ Poly(hexyl cyanoacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyhexylcyanoacrylate.html,CCCCCCOC(=O)C(=C)C#N,1.11,163,20.8,70500, ,0,"
+							109.3", ,1.5,0,C{-}C{n+}(C#N)(C(=O)OCCCCCC)
+ Poly(octyl cyanoacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoctylcyanoacrylate.html,CCCCCCCCOC(=O)C(=C)C#N,1.07,195.5,20.1,79000,308,0,"
+							129.8", ,1.49,0,C{-}C{n+}(C#N)(C(=O)OCCCCCCCC)
+" Poly(1,2-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly12-butadiene.html,C=CC=C,0.92,59.1,16.3,15700,271,0,38.67,3050,1.52,0,C{-}C{n+}(C=C)
+" Poly(1,4-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-butadiene.html,C=CC=C,0.9,59.3,16.8,16800,178,0,38.67,3400,1.53,0,C{-}C=CC{n+}
+ Polycyclopentene,https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html,C1CC=CC1,0.9,75,"
+							16.8",21300,183,0,"
+							48.95", ,1.52,0,C{-}=CCCC{n+}
+" Poly(1-ethyl-1,4-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/Poly1-ethyl-14-butadiene.html,CCC=CC=C,0.91,90.6,17.2,26800,194,0,"
+							59.23",6400,1.49,0,C{-}(CC)=CCC{n+}
+" 1,4-Polyisoprene (cis and trans) ",https://polymerdatabase.com/polymer%20index/../polymers/polyisoprene.html,CC=CC=C,0.91,74.6,17.2,22200,200,0,48.95,4800,1.51,0,C{-}(C)=CCC{n+}
+" Poly(1,4-pentadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-pentadiene.html,C=CCC=C,0.89,76.3,16.1,19800,208,0,48.95,4400,1.51,0,C{-}C=CC{n+}(C)
+ Poly(1-pentenylene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html,C1CC=CC1,0.9,75,"
+							16.8",21300,183,0,"
+							48.95", ,1.52,0,C{-}=CCCC{n+}
+ Bisphenol-A diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html,CC(C)(c1ccc(cc1)O)c2ccc(cc2)O.C1C(O1)CCl ,1.13,251.6,21.2,112700,381,0,159.34,1500,1.58,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)O(n+}
+ Bisphenol-F diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html,O1C C1COc1ccc(cc1)Cc1ccc(cc1)OC C1O C1, , ,22.2,108000,352,0,"
+							138.8", ,1.59,0,C{-}C(O)COc1ccc(cc1)Cc2ccc(cc2)O(n+}
+ Poly(bis-A diglycidyl ether- alt - ethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCN,1.14,352.5,22.2,174100,409,0,223.77,1900,1.57,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCN,1.1,416.5,21.4,191000,387,0,"
+							264.9", ,1.56,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - octamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCCCN,"
+							1.08",449,21.1,199700, ,0,"
+							264.9", , ,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCCCN{n+}
+ Bisphenol-A diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html,CC(C)(c1ccc(cc1)O)c2ccc(cc2)O.C1C(O1)CCl ,1.13,251.6,21.2,112700,381,0,159.34,1500,1.58,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)O(n+}
+ Bisphenol-F diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html,O1C C1COc1ccc(cc1)Cc1ccc(cc1)OC C1O C1, , ,22.2,108000,352,0,"
+							138.8", ,1.59,0,C{-}C(O)COc1ccc(cc1)Cc2ccc(cc2)O(n+}
+ Poly(bis-A diglycidyl ether- alt - ethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCN,1.14,352.5,22.2,174100,409,0,223.77,1900,1.57,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCN,1.1,416.5,21.4,191000,387,0,"
+							264.9", ,1.56,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - octamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCCCN,"
+							1.08",449,21.1,199700, ,0,"
+							264.9", , ,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCCCN{n+}
+ Poly(Bisphenol A isophthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/PolybisphenolAisophthalate.html,"
+							OC(=O)c1cc(ccc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O",1.22,294.4,20.5,124000,453,0,"
+							197.7",2100,1.6,0,"
+							C{-}(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O{n+}"
+ Poly(Bisphenol A terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly(bisphenolAterephthalate).html,"
+							OC(=O)c1ccc(cc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O",1.22,294.4,20.5,124100,462,0,"
+							197.7",1600,1.6,0,"
+							C{-}(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O{n+}"
+ Poly(butylene adipate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneadipate.html,OC(=O)CCCCC(=O)O.OCCCCO,1.18,170,19.7,66100,212,0,"
+							112.4",2050,1.49,0,O{-}CCCCOC(=O)CCCCC{n+}(=O)
+ Poly(butylene isophthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneisophthalate.html,OC(=O)c1cccc(c1)C(=O)O.OCCCCO,1.27,174,21,76400,312,0,116.9,3000,1.55,0,O{-}C(=O)c1cc(ccc1)C(=O)OCCCC{n+}
+ Poly(butylene sebacate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polytetramethylenesebacate.html,"
+							OC(=O)CCCCCCCCC(=O)O.OCCCCO",1.09,235,18.9,83900,216,0,"
+							153.5",1900,1.48,0,"
+							O{-}CCCCOC(=O)CCCCCCCCC{n+}(=O)"
+ Poly(butylene succinate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polybutylene succinate.html,OC(=O)CCC(=O)O.OCCCCO,1.25,138.1,20.4,57300,238,0,"
+							91.8",2200,1.49,0,O{-}CCCCOC(=O)CCC{n+}(=O)
+ Poly(butylene terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneterephthalate.html,OC(=O)c1ccc(cc1)C(=O)O.OCCCCO,1.27,174,21,76400,313,0,116.86,1600,1.55,0,O{-}C(=O)c1ccc(cc1)C(=O)OCCCC{n+}
+ Poly(ethylene sebacate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesebacate.html,OC(=O)CCCCCCCCC(=O)O.OCCO,1.12,204,19.2,75000,237,0,133,1960,1.48,0,O{-}CCOC(=O)CCCCCCCCC{n+}(=O)
+ Poly(ethylene succinate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polyethylene succinate.html,OC(=O)CCC(=O)O.OCCO,1.36,106,21.4,48700,267,0,"
+							71.3",2430,1.48,0,O{-}CCOC(=O)CCC{n+}(=O)
+ Poly(caprolactone) ,https://polymerdatabase.com/polymer%20index/../polymers/polycaprolactone.html,O=C1CCCCCO1,1.13,101.3,19.2,37500,205,0,66.48,2400,1.48,0,C{-}CCCCC(=O)O{n+}
+ Poly(cyclohexylenedimethylene terephthalate),https://polymerdatabase.com/polymer%20index/../polymers/Polycyclohexanedimethylene terephthalate.html,OC(=O)c1ccc(cc1)C(=O)O.OCC1CCC(CC1)CO,1.22,225,20.2,92200,369,0,"
+							150.7", ,1.54,0,O{-}C(=O)c1ccc(cc1)C(=O)OCC1CCC(CC1)C{n+}
+ Poly(ethylene adipate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneadipate.html,OC(=O)CCCCC(=O)O.OCCO,1.25,138.1,20.4,57300,234,0,91.84,2200,1.48,0,O{-}CCOC(=O)CCCCC{n+}(=O)
+ Poly(ethylene isophthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneisophthalate.html,OC(=O)c1cccc(c1)C(=O)O.OCCO,1.36,141.7,21.9,68000,338,0,96.3,3500,1.57,0,O{-}C(=O)c1cc(ccc1)C(=O)OCC{n+}
+ Poly(ethylene naphthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylenenaphthalate.html,"
+							OC(=O)c1ccc2c(c1)ccc(c2)C(=O)O.OCCO",1.33,182.5,21.6,85300,389,0,"
+							 ", ,1.6,0,"
+							O{-}CCOC(=O)c1ccc2c(c1)ccc(c2)C{n+}(=O)"
+ Poly(ethylene phthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylenephthalate.html,OC(=O)c1ccccc1C(=O)O.OCCO,1.36,141.7,21.9,68000,303,0,96.3,3200,1.57,0,O{-}C(=O)c1c(cccc1)C(=O)OCC{n+}
+ Poly(ethylene terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneterephthalate.html,OC(=O)c1ccc(cc1)C(=O)O.OCCO,1.36,141.7,21.9,68000,346,0,96.3,1700,1.57,0,O{-}C(=O)c1ccc(cc1)C(=O)OCC{n+}
+ Polyglycolide ,https://polymerdatabase.com/polymer%20index/../polymers/polyglycolide.html,O=C1OCC(=O)OC1,1.58,36.8,23.5,20300,314,0,25.36,3400,1.5,0,O{-}CC{n+}(=O)
+ Poly(hexylene sebacate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylenesebacate.html,"
+							OC(=O)CCCCCCCCC(=O)O.OCCCCCCO",1.06,267.2,18.6,92900,210,0,"
+							174.1",1800,1.48,0,"
+							O{-}CCCCCCOC(=O)CCCCCCCCC{n+}(=O)"
+ Poly(hexylene succinate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polyhexylene succinate.html,OC(=O)CCC(=O)O.OCCCCCCO,1.18,170,19.7,66100,221,0,"
+							112", ,1.49,0,O{-}CCCCCCOC(=O)CCC{n+}(=O)
+ Poly(3-hydroxybutyrate)  ,https://polymerdatabase.com/polymer%20index/../polymers/poly3-hydroxybutyrate.html,CC1CC(=O)O1,1.23,70,19.6,26800,279,0,45.92,2900,1.48,0,C{-}(C)CC(=O)O{n+}
+ Poly(4-hydroxybutyrate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Poly(4-hydroxybutyrate).html,O= C1CCCO1 ,1.25,69.1,20.4,28600,227,0,"
+							45.9",2450,1.49,0,O{-}CCC{n+}(=O)
+ Polylactic acid ,https://polymerdatabase.com/polymer%20index/../polymers/polylacticacid.html,OC(=O)C(O)C,1.31,54.9,20.3,22600,312,0,35.64,4300,1.48,0,C{-}(C)C(=O)O{n+}
+ Poly(propylene adipate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneadipate.html,OC(=O)CCCCC(=O)O.OCCCO,1.21,154,20,61700,217,0,"
+							102", ,1.49,0,O{-}CCCOC(=O)CCCCC{n+}(=O)
+ Poly(trimethylene succinate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polypropylene succinate.html,OC(=O)CCC(=O)O.OCCCO,1.3,122,20.8,52900,245,0,"
+							81.6", ,1.49,0,O{-}CCCOC(=O)CCC{n+}(=O)
+ Poly(trimethylene terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polytrimethyleneterephthalate.html,"
+							OC(=O)c1ccc(cc1)C(=O)O.OCCCO",1.31,157.9,21.4,72100,330,0,"
+							106.6",1650,1.56,0,"
+							O{-}C(=O)c1ccc(cc1)C(=O)OCCC{n+}"
+ Polyacetal - Polyoxymethylene  ,https://polymerdatabase.com/polymer%20index/../polymers/polyacetal.html,C=O,1.27,23.7,21.3,10700,216,0,12.25,2900,1.47,0,C{-}O{n+}
+ Poly(3-butoxypropylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly3-butoxypropylene oxide.html,CCCCOCC1CO1,1.01,129,18,41900,201,0,"
+							75.9", ,1.47,0,O{-}C(COCCCC)C{n+}
+ Poly(epichlorohydrin) ,https://polymerdatabase.com/polymer%20index/../polymers/polyepichlorohydrin.html,ClCC1CO1,1.34,69,19.9,27200,256,0,41.07,6300,1.51,0,O{-}CC{n+}(CCl)
+ Poly(ethylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneglycol.html,O1CC1,1.11,39.8,19.4,15100,202 251,0,22.53,2100,1.47,0,O{-}CC(n+}
+ Poly(hexamethylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylene oxide.html,C1CCCCOC1,0.96,104.4,17.8,33100,203,0,"
+							63.7",1800,1.47,0,C{-}CCCCCO{n+}
+ Poly(3-methoxypropylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyglycidyl methyl ether.html,COCC1CO1,1.09,80.5,18.8,28300,210,0,"
+							45.1", ,1.46,0,O{-}C(COC)C{n+}
+ Poly[oxy(hexyloxymethyl)ethylene] ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-(hexoxymethyl)oxirane.html,CCCCCCOCC1CO1,0.98,161,17.8,51000,199,0,"
+							96.5", ,1.47,0,O{-}C(COCCCCCC)C{n+}
+ Poly(oxymethylene-oxyethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxyethylene.html,C1COCO1,1.17,63.5,20.1,25700,211,0,"
+							34.8", ,1.47,0,C{-}COCO(n+}
+ Poly(oxymethylene-oxytetramethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxytetramethylene.html, ,1.07,95.8,19,34600,198,0,"
+							97.2", ,1.47,0,C{-}CCCOCO(n+}
+ Poly(propylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneglycol.html,CC1CO1,1.02,56.8,17.7,17800,207,0,32.81,2800,1.46,0,O{-}C(C)C{n+}
+ Poly(tetrahydrofuran) ,https://polymerdatabase.com/polymer%20index/../polymers/polytetrahydrofuran.html,C1CCCO1,1,72.1,18.3,24000,193,0,43.09,2000,1.47,0,C{-}CCCO{n+}
+ Poly(trimethylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/Polytrimethylene glycol.html,C1CCO1,1.04,55.9,18.7,19500,196,0,"
+							32.8",2020,1.47,0,C{-}CCO{n+}
+" Poly[1,1-bis(chloromethyl)trimethylene oxide] ",https://polymerdatabase.com/polymer%20index/../polymers/polybis(chloromethyl)trimethylene oxide.html,C1C(CO1)(CCl)CCl,1.37,113,19.8,44000,283,0,"
+							69.9", ,1.54,0,C{-}(CCl)(CCl)CCO{n+}
+ Cellulose Acetate,https://polymerdatabase.com/polymer%20index/../polymers/Cellulose Acetate.html,N/A, ,"
+							N/A", , , ,0,"
+							 ", , ,0,CurlySMILES
+ Methyl Cellulose,https://polymerdatabase.com/polymer%20index/../polymers/Methyl Cellulose.html,N/A, , , , , ,0,"
+							 ", , ,0,CurlySMILES
+ Ethyl Cellulose ,https://polymerdatabase.com/polymer%20index/../polymers/Ethyl Cellulose.html,N/A, ,"
+							N/A", , , ,0,"
+							 ", , ,0,CurlySMILES
+ PEK - Poly(ether ketone)  ,https://polymerdatabase.com/polymer%20index/../polymers/polyetherketone.html,[O-]C(=O)[O-].[Na+].[Na+].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,1.24,157.7,22.6,80700,437,0,104.35,1750,1.66,0,O{-}c1ccc(cc1)C(=O)c1ccc{n+}(cc1)
+ PEKK - Poly(ether ketone ketone)  ,https://polymerdatabase.com/polymer%20index/../polymers/polyetherketoneketone.html,"
+							c1cc(ccc1C(=O)Cl)C(=O)Cl.c1ccc(cc1)Oc2ccccc2",1.25,240,23.1,127500,440,0,"
+							161.2",1700,1.64,0,c1{-}ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)C(=O){n+}
+ PEEK - Poly(ether ether ketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyetheretherketone.html,[Na]Oc1ccc(cc1)O[Na].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,1.24,233.4,22.2,114600,419,0,151.9,1550,1.66,0,O{-}c1ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc{n+}(cc1)
+ Poly(ethyleneketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneketone.html,C=C.[C-]#[O+],1.22,46.1,24.5,27600,290,0,31.79,4700,1.52,0,C{-}CC{n+}(=O)
+ Poly(propyleneketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneketone.html,CC=C.[C-]#[O+],1.11,63.1,21.5,29300,312,0,"
+							42.1", ,1.49,0,C{-}C(C)C{n+}(=O)
+ Poly(ether ether sulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyetherethersulfone.html,Oc1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.33,244.1,23.5,135200,487,0,156.43,2400,1.63,0,c1{-}ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)O{n+}
+ Poly(ethersulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethersulfone.html,Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl.Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)O,1.38,168.3,24.7,102700,505,0,108.88,3850,1.61,0,O{-)c1ccc(cc1)S(=O)(=O)c1ccc{n+}(cc1)
+ Poly(phenylsulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyphenylsulfone.html,Oc1ccc(cc1)c1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.28,313.6,22.7,161500,482,0,202.01,1900,1.64,0,c1{-}ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)c1ccc(cc1)O{n+}
+ Bisphenol A Polysulfone ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenolapolysulfone.html,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.22,362,21.7,170900,460,0,232.84,2150,1.62,0,O{-}c1ccc(cc1)C(C)(C)c1ccc(cc1)Oc1ccc(cc1)S(=O)(=O)c1ccc{n+}(cc1)
+ Poly(dimethyl fumarate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polydimethylfumarate.html,COC(=O)/C=C/C(=O)OC,1.34,107.6,20.4,44800,374,0,71.28,16500,1.48,0,C{-}(C(=O)OC)C{n+}(C(=O)OC)
+ Poly(dibutyl fumarate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polydibutylfumarate.html,"
+							CCCCOC(=O)/C=C/C(=O)OCCCC",1.12,205,18.7,71500,242,0,"
+							133", ,1.48,0,"
+							C{-}(C(=O)OCCCC)C{n+}(C(=O)OCCCC)"
+ Poly(diethyl fumarate) ,https://polymerdatabase.com/polymer%20index/../polymers/polydiethylfumarate.html,CCOC(=O)/C=C/C(=O)OCC,1.23,139.9,19.6,53600,293,0,91.84,25000,1.48,0,C{-}(C(=O)OCC)C{n+}(C(=O)OCC)
+ Poly(dipropyl fumarate) ,https://polymerdatabase.com/polymer%20index/../polymers/polydipropylfumarate.html,"
+							CCCOC(=O)/C=C/C(=O)OCCC",1.16,172.2,19.1,62500,266,0,"
+							112.4",35800,1.48,0,"
+							C{-}(C(=O)OCCC)C{n+}(C(=O)OCCC)"
+ Polyacetal - Polyoxymethylene  ,https://polymerdatabase.com/polymer%20index/../polymers/polyacetal.html,C=O,1.27,23.7,21.3,10700,216,0,12.25,2900,1.47,0,C{-}O{n+}
+ Poly(3-butoxypropylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly3-butoxypropylene oxide.html,CCCCOCC1CO1,1.01,129,18,41900,201,0,"
+							75.9", ,1.47,0,O{-}C(COCCCC)C{n+}
+ Poly(epichlorohydrin) ,https://polymerdatabase.com/polymer%20index/../polymers/polyepichlorohydrin.html,ClCC1CO1,1.34,69,19.9,27200,256,0,41.07,6300,1.51,0,O{-}CC{n+}(CCl)
+ Poly(ethylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneglycol.html,O1CC1,1.11,39.8,19.4,15100,202 251,0,22.53,2100,1.47,0,O{-}CC(n+}
+ Poly(hexamethylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylene oxide.html,C1CCCCOC1,0.96,104.4,17.8,33100,203,0,"
+							63.7",1800,1.47,0,C{-}CCCCCO{n+}
+ Poly(3-methoxypropylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyglycidyl methyl ether.html,COCC1CO1,1.09,80.5,18.8,28300,210,0,"
+							45.1", ,1.46,0,O{-}C(COC)C{n+}
+ Poly[oxy(hexyloxymethyl)ethylene] ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-(hexoxymethyl)oxirane.html,CCCCCCOCC1CO1,0.98,161,17.8,51000,199,0,"
+							96.5", ,1.47,0,O{-}C(COCCCCCC)C{n+}
+ Poly(oxymethylene-oxyethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxyethylene.html,C1COCO1,1.17,63.5,20.1,25700,211,0,"
+							34.8", ,1.47,0,C{-}COCO(n+}
+ Poly(oxymethylene-oxytetramethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxytetramethylene.html, ,1.07,95.8,19,34600,198,0,"
+							97.2", ,1.47,0,C{-}CCCOCO(n+}
+ Poly(propylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneglycol.html,CC1CO1,1.02,56.8,17.7,17800,207,0,32.81,2800,1.46,0,O{-}C(C)C{n+}
+ Poly(tetrahydrofuran) ,https://polymerdatabase.com/polymer%20index/../polymers/polytetrahydrofuran.html,C1CCCO1,1,72.1,18.3,24000,193,0,43.09,2000,1.47,0,C{-}CCCO{n+}
+ Poly(trimethylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/Polytrimethylene glycol.html,C1CCO1,1.04,55.9,18.7,19500,196,0,"
+							32.8",2020,1.47,0,C{-}CCO{n+}
+" Poly[1,1-bis(chloromethyl)trimethylene oxide] ",https://polymerdatabase.com/polymer%20index/../polymers/polybis(chloromethyl)trimethylene oxide.html,C1C(CO1)(CCl)CCl,1.37,113,19.8,44000,283,0,"
+							69.9", ,1.54,0,C{-}(CCl)(CCl)CCO{n+}
+ PoIy(1-chloro-1-butenylene) (Polychloroprene) ,https://polymerdatabase.com/polymer%20index/../polymers/polychloroprene.html,C=CC(=C)Cl,1.25,70.6,19.7,27400,244,0,46.93,9700,1.54,0,C{-}C(Cl)=CC{n+}
+ Poly(1-bromo-1-butenylene) (Polybromoprene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly1-bromo-1-butenylene.html,BrC=CC=C,1.78,74.7,19.5,28300,243,0,51.54,11000,1.6,0,C{-}(Br)=CCC{n+}
+ Poly(chlorotrifluoroethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polychlorotrifluoroethylene.html,FC(=C(F)F)Cl,2.08,56,16.1,14500,365,0,"
+							34.48",11100,1.44,0,"
+							C{-}(Cl)(F)C{n+}(F)(F)"
+ Poly(tetrafluoroethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polytetrafluoroethylene.html,FC(=C(F)F)F,2.1,47.6,12.9,7900,385,0,28.11,5400,1.36,0,C{-}(F)(F)C{n+}(F)(F)
+ Poly(vinyl bromide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbromide.html,BrC=C,2.18,49.2,19.1,17900,377,0,33.43,7700,1.62,0,C{-}(Br)C{n+}
+ Poly(vinyl chloride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylchloride.html,ClC=C,1.38,45.3,19.1,16600,350,0,28.82,5750,1.53,0,C{-}(Cl)C{n+}
+ Poly(vinyl fluoride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylfluoride.html,FC=C,1.26,36.9,15.1,8500,"269, 338",0,22.45,1650,1.41,0,C{-}(F)C{n+}
+ Poly(vinylidene chloride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenechloride.html,ClC(=C)Cl,1.71,56.8,20,22800,"254, 295",0,37.07,14600,1.61,0,C{-}(Cl)(Cl)C{n+}
+ Poly(vinylidene fluoride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenefluoride.html,FC(=C)F,1.6,39.9,15.6,9700,242,0,24.33,2600,1.41,0,C{-}(F)(F)C{n+}
+ Poly(4-bromostyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-bromostyrene.html,C=Cc1ccc(cc1)Br,0.87,118.7,20.2,48600,391,0,78.81,27000,1.62,0,C{-}C{n+}(c1ccc(cc1)Br)
+ Poly(2-chlorostyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-chlorostyrene.html,C=Cc1ccccc1Cl,1.22,113.5,19.6,43500,401,0,74.08,32000,1.6,0,C{-}C{n+}(c1c(Cl)cccc1)
+ Poly(3-chlorostyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly3-chlorostyrene.html,C=Cc1cccc(c1)Cl,1.22,113.5,19.6,43500,399,0,"
+							74.08",32000,1.6,0,C{-}C{n+}(c1cc(Cl)ccc1)
+ Poly(4-chlorostyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-chlorostyrene.html,C=Cc1ccc(cc1)Cl,1.22,113.5,19.6,43500,401,0,74.08,32000,1.6,0,C{-}C{n+}(c1ccc(Cl)cc1)
+" Poly(2,5-difluorostyrene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly25-difluorostyrene.html,C=Cc1cc(F)ccc1F,0.92,111.2,17.5,34200,389,0,65.56,16000,1.52,0,C{-}C{n+}(c1c(F)ccc(F)c1)
+ Poly(4-fluorostyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-fluorostyrene.html,C=Cc1ccc(cc1)F,1.16,105.1,18.3,35100,394,0,67.92,18000,1.56,0,C{-}C{n+}(c1ccc(F)cc1)
+ Bisphenol-A diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html,CC(C)(c1ccc(cc1)O)c2ccc(cc2)O.C1C(O1)CCl ,1.13,251.6,21.2,112700,381,0,159.34,1500,1.58,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)O(n+}
+ Bisphenol-F diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html,O1C C1COc1ccc(cc1)Cc1ccc(cc1)OC C1O C1, , ,22.2,108000,352,0,"
+							138.8", ,1.59,0,C{-}C(O)COc1ccc(cc1)Cc2ccc(cc2)O(n+}
+ Poly(bis-A diglycidyl ether- alt - ethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCN,1.14,352.5,22.2,174100,409,0,223.77,1900,1.57,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCN,1.1,416.5,21.4,191000,387,0,"
+							264.9", ,1.56,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - octamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCCCN,"
+							1.08",449,21.1,199700, ,0,"
+							264.9", , ,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCCCN{n+}
+ Poly(2-hydroxyethyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxyethyl acrylate.html,C=CC(=O)OCCO ,1.31,88.4,25.5,"
+", ,0,"
+							58.8", ,1.51,0,"
+							C{-}C{n+}(C(=O)OCCO)"
+ Poly(2-hydroxyethyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxyethyl-2-methylpropenoate.html,CC(=C)C(=O)OCCO,1.25,103.8,23.8,59000,375,0,"
+							69.05",26200,1.52,0,"
+							C{-}C{n+}(C)(C(=O)OCCO)"
+ Poly(2-hydroxypropyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxypropylmethacrylate.html,CC(COC(=O)C(=C)C)O,1.19,120.8,22.4,60700,341,0,"
+							79.3", ,1.5,0,"
+							C{-}C{n+}(C)(C(=O)OCC(O)C)"
+" Poly[(diethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  ",https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatediethyleneglycol.html,OCCOCCO.O=C=NCCCCCCN=C=O,1.23,223.1,23.8,126500,275,0,147.34,4300,1.52,0,O{-}CCOCCOC(=O)NCCCCCCNC{n+}(=O)
+" Poly[(tetraethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  ",https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatetetraethyleneglycol.html,OCCOCCOCCOCCO.O=C=NCCCCCCN=C=O,2.21,300,22.8,156000,262,0,"
+							192.4", ,"
+							1.51",0,O{-}CCOCCOCCOCCOC(=O)NCCCCCCNC{n+}(=O)
+" Poly[(1,4-butanediol)-alt-(4,4'-diphenylmethane diisocyanate)] ",https://polymerdatabase.com/polymer%20index/../polymers/butanedioldiphenylmethanediisocyanate.html,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,1.23,275.7,23.5,152400,369,0,185.11,2200,1.57,0,O{-}CCCCOC(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC{n+}(=O)
+" Poly[(ethylene glycol)-alt-(4,4'-diphenylmethane diisocyanate)] ",https://polymerdatabase.com/polymer%20index/../polymers/ethyleneglycoldiphenylmethanediisocyanate.html,OCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,1.28,243.7,24.4,144800,414,0,164.56,2200,1.58,0,O{-}CCOC(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC{n+}(=O)
+" Poly[(polytetrahydrofuran 1000)-alt-(4,4'-diphenylmethane diisocyanate)] ",https://polymerdatabase.com/polymer%20index/../polymers/PTMO-diphenylmethanediisocyanate.html,(OCCCC)14O.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,1.07,1191,19.7,463500,233,0,"
+							745","
+							2225","
+							1.50",0,O{-}(CCCCO)13CCCCO(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC{n+}(=O)
+ Poly(Bisphenol A isophthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/PolybisphenolAisophthalate.html,"
+							OC(=O)c1cc(ccc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O",1.22,294.4,20.5,124000,453,0,"
+							197.7",2100,1.6,0,"
+							C{-}(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O{n+}"
+ Poly(butylene isophthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneisophthalate.html,OC(=O)c1cccc(c1)C(=O)O.OCCCCO,1.27,174,21,76400,312,0,116.9,3000,1.55,0,O{-}C(=O)c1cc(ccc1)C(=O)OCCCC{n+}
+ Poly(ethylene isophthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneisophthalate.html,OC(=O)c1cccc(c1)C(=O)O.OCCO,1.36,141.7,21.9,68000,338,0,96.3,3500,1.57,0,O{-}C(=O)c1cc(ccc1)C(=O)OCC{n+}
+" Poly(1,2-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly12-butadiene.html,C=CC=C,0.92,59.1,16.3,15700,271,0,38.67,3050,1.52,0,C{-}C{n+}(C=C)
+" Poly(1,4-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-butadiene.html,C=CC=C,0.9,59.3,16.8,16800,178,0,38.67,3400,1.53,0,C{-}C=CC{n+}
+ Polycyclopentene,https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html,C1CC=CC1,0.9,75,"
+							16.8",21300,183,0,"
+							48.95", ,1.52,0,C{-}=CCCC{n+}
+" Poly(1-ethyl-1,4-butadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/Poly1-ethyl-14-butadiene.html,CCC=CC=C,0.91,90.6,17.2,26800,194,0,"
+							59.23",6400,1.49,0,C{-}(CC)=CCC{n+}
+" 1,4-Polyisoprene (cis and trans) ",https://polymerdatabase.com/polymer%20index/../polymers/polyisoprene.html,CC=CC=C,0.91,74.6,17.2,22200,200,0,48.95,4800,1.51,0,C{-}(C)=CCC{n+}
+" Poly(1,4-pentadiene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-pentadiene.html,C=CCC=C,0.89,76.3,16.1,19800,208,0,48.95,4400,1.51,0,C{-}C=CC{n+}(C)
+ Poly(1-pentenylene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly-1-pentenylene.html,C1CC=CC1,0.9,75,"
+							16.8",21300,183,0,"
+							48.95", ,1.52,0,C{-}=CCCC{n+}
+ Poly[dimethyl itaconate] ,https://polymerdatabase.com/polymer%20index/../polymers/polydimethylitaconate.html,"
+							COC(=O)CC(=C)C(=O)OC",1.29,122.2,20.1,49400,366,0,"
+							81.56",75000,1.22,0,"
+							C{-}(C(=O)OC)(CC(=O)OC)C{n+}"
+ Poly[di(n-propyl) itaconate]  ,https://polymerdatabase.com/polymer%20index/../polymers/polydin-propylitaconate.html,CCCOC(=O)CC(=C)C(=O)OCCC,1.15,186.7,19,67200,303,0,122.68,53500,1.48,0,C{-}(C(=O)OCCC)(CC(=O)OCCC)C{n+}
+ Poly[di(n-butyl) itaconate] ,https://polymerdatabase.com/polymer%20index/../polymers/polydin-butylitaconate.html,CCCCOC(=O)CC(=C)C(=O)OCCCC,1.11,219,18.7,76200,286,0,143.24,71000,1.49,0,C{-}(C(=O)OCCCC)(C(=O)OCCCC)C{n+}
+ Poly[di(n-hexyl) itaconate] ,https://polymerdatabase.com/polymer%20index/../polymers/polydin-hexylitaconate.html,CCCCCCOC(=O)CC(=C)C(=O)OCCCCCC,1.05,284,18.2,86500,269,0,"
+							184.4", , ,0,C{-}(C(=O)OCCCCCC)(CC(=O)OCCCCCC)C{n+}
+ PEK - Poly(ether ketone)  ,https://polymerdatabase.com/polymer%20index/../polymers/polyetherketone.html,[O-]C(=O)[O-].[Na+].[Na+].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,1.24,157.7,22.6,80700,437,0,104.35,1750,1.66,0,O{-}c1ccc(cc1)C(=O)c1ccc{n+}(cc1)
+ PEKK - Poly(ether ketone ketone)  ,https://polymerdatabase.com/polymer%20index/../polymers/polyetherketoneketone.html,"
+							c1cc(ccc1C(=O)Cl)C(=O)Cl.c1ccc(cc1)Oc2ccccc2",1.25,240,23.1,127500,440,0,"
+							161.2",1700,1.64,0,c1{-}ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)C(=O){n+}
+ PEEK - Poly(ether ether ketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyetheretherketone.html,[Na]Oc1ccc(cc1)O[Na].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,1.24,233.4,22.2,114600,419,0,151.9,1550,1.66,0,O{-}c1ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc{n+}(cc1)
+ Poly(ethyleneketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneketone.html,C=C.[C-]#[O+],1.22,46.1,24.5,27600,290,0,31.79,4700,1.52,0,C{-}CC{n+}(=O)
+ Poly(propyleneketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneketone.html,CC=C.[C-]#[O+],1.11,63.1,21.5,29300,312,0,"
+							42.1", ,1.49,0,C{-}C(C)C{n+}(=O)
+ Nylon 3 - Poly(propiolactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon3.html,C1CNC1=O,1.24,57.3,32,58900,380,0,37.99,3350,1.54,0,N{-}C(=O)CC{n+}
+ Nylon 6 - Poly(caprolactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon6.html,O=C1CCCCCN1,1.07,105.8,25,66300,324,0,68.83,2400,1.51,0,N{-}CCCCCC{n+}(=O)
+ Nylon 8 - Polycapryllactam  ,https://polymerdatabase.com/polymer%20index/../polymers/nylon8.html,O=C1CCCCCCCN1,1.02,138,23.1,73700,322,0,89.38,2300,1.5,0,N{-}C(=O)CCCCCCC{n+}
+ Nylon 10 - Poly(decano-10-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon10.html,NCCCCCCCCCC(=O)O,1,170,219,81800,314,0,"
+							109.9",2030,1.5,0,N{-}C(=O)CCCCCCCCC{n+}
+ Nylon 11 - Poly(undecano-11-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon11.html,NCCCCCCCCCCC(=O)O,0.98,186.5,21.5,85900,315,0,120.22,2000,1.5,0,N{-}C(=O)CCCCCCCCCC{n+}
+ Nylon 12 - Poly(dodecano-12-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon12.html,NCCCCCCCCCCCC(=O)O,0.97,202.6,21.1,90200,313,0,130.5,1950,1.5,0,N{-}C(=O)CCCCCCCCCCC{n+}
+" Nylon 4,6 - Poly(tetramethylene adipamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon4-6.html,OC(=O)CCCCC(=O)O.NCCCCN,1.11,179,26.5,126000,344,0,"
+							117.1", ,1.52,0,N{-}C(=O)CCCCC(=O)NCCCC{n+}
+" Nylon 6,6 - Poly(hexamethylene adipamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon66.html,NCCCCCCN.OC(=O)CCCCC(=O)O,1.07,211.5,25,133600,324,0,137.65,2200,1.52,0,N{-}C(=O)CCCCC(=O)NCCCCCC{n+}
+" Nylon 6,9 - Poly(hexamethylene azelamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon6-9.html,OC(=O)CCCCCCCC(=O)O.NCCCCCCN,1.03,260,23.5,144000,325,0,"
+							168.5",2100,1.51,0,N{-}C(=O)CCCCCCCC(=O)NCCCCCC{n+}
+" Nylon 6,10 - Poly(hexamethylene sebacamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon6-10.html,"
+							OC(=O)CCCCCCCCC(=O)O.NCCCCCCN",1.02,276.1,23.1,147000,321,0,"
+							178.8",2050,1.51,0,"
+							N{-}C(=O)CCCCCCCCC(=O)NCCCCCC{n+}"
+" Nylon 6,12 - Poly(hexamethylene dodecanediamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon612.html,NCCCCCCN.OC(=O)CCCCCCCCCCC(=O)O,1.01,308.4,22.4,155300,318,0,199.33,2000,1.5,0,N{-}C(=O)CCCCCCCCCCC(=O)NCCCCCC{n+}
+" Nylon 10,10 - Poly(decamethylene sebacamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon10-10.html,"
+							OC(=O)CCCCCCCCC(=O)O.NCCCCCCCCCCN",0.99,341,21.9,163500,314,0,"
+							219.9",1900,1.5,0,N{-}C(=O)CCCCCCCCC(=O)NCCCCCCCCCC{n+}
+" Poly(hexamethylene isophthalamide), PA 6I",https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylisophthalamide.html,NCCCCCCN.ClC(=O)c1cc(ccc1)C(=O)Cl,1.15,215,26,145000,390,0,"
+							142.1","
+",1.57,0,N{-}C(=O)c1cc(ccc1)C(=O)NCCCCCC{n+}
+" Poly(hexamethylene teraphthalamide), PA 6T",https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylteraphthalamide.html,NCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,1.15,215,26,145000,415,0,"
+							142.1","
+",1.57,0,N{-}C(=O)c1ccc(cc1)C(=O)NCCCCCC{n+}
+ Kevlar - Polyaramide  ,https://polymerdatabase.com/polymer%20index/../polymers/kevlar.html,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,1.28,186.5,28.6,152800,595,0,126.01,2900,1.65,0,N{-}c1ccc(cc1)NC(=O)c1ccc(cc1)C{n+}(=O)
+ Nomex - Poly(m-phenylene terephthalamide),https://polymerdatabase.com/polymer%20index/../polymers/polym-phenyleneterephthalamide.html,"
+							Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl",1.31,186.5,28.6,153000,510,0,"
+							126.0", ,1.65,0,"
+							N{-}c1cc(ccc1)NC(=O)c1cc(ccc1)C{n+}(=O)"
+" Poly(nonanmethylene teraphthalamide), PA 9T",https://polymerdatabase.com/polymer%20index/../polymers/Polynonanediylteraphthalamide.html,NCCCCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,1.1,264,24.3,155000,386,0,"
+							173","
+",1.55,0,N{-}C(=O)c1ccc(cc1)C(=O)NCCCCCCCCC{n+}
+ Poly(N-acetylmethacrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyn-acetylmethacrylamide.html,CC(=O)NC(=O)C(=C)C,1.23,105.7,27.7,79700,445,0,69.77,31600,1.52,0,C{-}C{n+}(C)(C(=O)NC(=O)C)
+ Poly(N-benzyl methacrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyn-benzylmethacrylamide.html,O=C(C(=C)C)NCc1ccccc1,1.13,155.6,23.8,88200,495,0,104.27,63000,1.59,0,C{-}C{n+}(C)(C(=O)NCc1ccccc1)
+ Poly(methacrylamide),https://polymerdatabase.com/polymer%20index/../polymers/Polymethacrylamide.html,CC(=C)C(=O)N, , ,23.3,40800,483,0,"
+							48.9", , ,0,C{-}C{n+}(C)(C(=O)N)
+ Poly(N-tert-butylmethacrylamide) ,https://polymerdatabase.com/polymer%20index/../polymers/PolyN-tert-butylmethacrylamide.html,"
+							CC(=C)C(=O)NC(C)(C)C",1.02,138.4, , ,437,0,"
+							89.4",33800,1.5,0,"
+							C{-}C{n+}(C)(C(=O)NC(C)(C)C)"
+ Poly(methacrylic acid) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethacrylicacid.html,CC(=C)C(=O)O,1.32,65.3,19.6, ,"
+							511",0,"
+							46.5",7550,1.52,0,C{-}C{n+}(C)(C(=O)O)
+ Poly(benzyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybenzylmethacrylate.html,O=C(C(=C)C)OCc1ccccc1,1.17,151.2,19.7,58700,353,0,101.92,43000,1.57,0,C{-}C{n+}(C)(C(=O)OCc1ccccc1)
+ Poly(butyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylmethacrylate.html,CCCCOC(=O)C(=C)C,1.06,133.8,18,43300,291,0,87.04,21800,1.48,0,C{-}C{n+}(C)(C(=O)OCCCC)
+ Poly(cyclohexyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylmethacrylate.html,O=C(C(=C)C)OC1CCCCC1,1.11,151.6,18.5,51900,370,0,100.33,26500,1.51,0,C{-}C{n+}(C)(C(=O)OC1CCCCC1)
+ Poly(decylmethacrylate),https://polymerdatabase.com/polymer%20index/../polymers/polydecylmethacrylate.html,CCCCCCCCCCOC(=O)C(=C)C,0.97,233,17.4,70900,219,0,"
+							148.7",62500,1.48,0,C{-}C{n+}(C)(C(=O)OCCCCCCCCCC)
+ Poly(dodecylmethacrylate),https://polymerdatabase.com/polymer%20index/../polymers/polydodecylmethacrylate.html,CCCCCCCCCCCCOC(=O)C(=C)C,0.97,263,17.4,79700,219,0,"
+							169.3",82000,1.48,0,C{-}C{n+}(C)(C(=O)OCCCCCCCCCCCC)
+ Poly(2-ethoxyethyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-ethoxyethylmethacrylate.html,CCOCCOC(=O)C(=C)C,1.12,141.3,18.7,49200,297,0,89.01,31000,1.48,0,C{-}C{n+}(C)(C(=O)OCCOCC)
+ Poly(ethyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylmethacrylate.html,CCOC(=O)C(=C)C,1.12,101.5,18.4,34200,341,0,66.48,13500,1.49,0,C{-}C{n+}(C)(C(=O)OCC)
+ Poly(hexyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyhexylmethacrylate.html,CCCCCCOC(=O)C(=C)C,1.03,166.1,17.8,52400,264,0,107.6,32600,1.48,0,C{-}C{n+}(C)(C(=O)OCCCCCC)
+ Poly(2-hydroxyethyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxyethyl-2-methylpropenoate.html,CC(=C)C(=O)OCCO,1.25,103.8,23.8,59000,375,0,"
+							69.05",26200,1.52,0,"
+							C{-}C{n+}(C)(C(=O)OCCO)"
+ Poly(2-hydroxypropyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-hydroxypropylmethacrylate.html,CC(COC(=O)C(=C)C)O,1.19,120.8,22.4,60700,341,0,"
+							79.3", ,1.5,0,"
+							C{-}C{n+}(C)(C(=O)OCC(O)C)"
+ Poly(isobutyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylmethacrylate.html,CC(COC(=O)C(=C)C)C,1.06,134.7,17.6,41700,328,0,87.04,21400,1.48,0,C{-}C{n+}(C)(C(=O)OCC(C)C)
+ Poly(isopropyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylmethacrylate.html,CC(OC(=O)C(=C)C)C,1.08,118.6,17.7,37100,362,0,76.76,17000,1.48,0,C{-}C{n+}(C)(C(=O)OC(C)C)
+ Poly(methyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethylmethacrylate.html,COC(=O)C(=C)C,1.17,85.4,18.7,29700,375325,0,56.2,10200,1.49,0,C{-}C{n+}(C)(C(=O)OC)
+ Poly(octadecyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoctadecylmethacrylate.html,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,0.94,359.8,17.2,107000,3051,0,230.95,162000,1.48,0,C{-}C{n+}(C)(C(=O)OCCCCCCCCCCCCCCCCCC)
+ Poly(octyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoctylmethacrylate.html,CCCCCCCCOC(=O)C(=C)C,1,198.4,17.6,61500,"
+							234",0,"
+							128.2",46100,1.48,0,C{-}C{n+}(C)(C(=O)OCCCCCCCC)
+ Poly(2-phenylethyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyphenylethylmethacrylate.html,"
+							CC(=C)C(=O)OCCc1ccccc1",1.14,167,19.4,63100,"
+							352",0,"
+							112.2",50000,1.56,0,C{-}C{n+}(C)(C(=O)OCCc1ccccc1)
+ Poly(phenyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyphenylmethacrylate.html,CC(=C)C(=O)Oc1ccccc1,1.2,135,20.1,54300, ,0,"
+							91.7",36000,1.58,0,C{-}C{n+}(C)(C(=O)Oc1ccccc1)
+ Poly(propyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropylmethacrylate.html,CCCOC(=O)C(=C)C,1.09,117.7,18.1,38800,320,0,76.76,193,1.49,0,C{-}C{n+}(C)(C(=O)OCCC)
+ Poly(2-chloroethyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-chloroethylmethacrylate.html,"
+							CC(=C)C(=O)OCCCl",1.31,113.7,19.6,43600,355,0,"
+							74.7",29500,1.52,0,"
+							C{-}C{n+}(C)(C(=O)OCCCl)"
+ Poly(sec-butyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/Polysec-butyl methacrylate.html,CCC(OC(=O)C(=C)C)C,1.06,135,17.6,41700,329,0,87,21400,1.48,0,C{-}C{n+}(C)(C(=O)OC(C)CC)
+Poly(4-tert-butylcyclohexyl methacrylate),https://polymerdatabase.com/polymer%20index/../polymers/Poly4-tert-butylcyclohexyl methacrylate.html,CC(=C)C(=O)OC1CCC(CC1)C(C)(C)C,1.03,217,17.4,65500,391,0,"
+							141.5",49400, ,0,C{-}C{n+}(C)(C(=O)OC1CCC(CC1)C(C)(C)C)
+ Poly(tert-butyl methacrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylmethacrylate.html,CC(=C)C(=O)OC(C)(C)C,1.06,134,17.3,40200,406,0,87.04,21100,1.49,0,C{-}C{n+}(C)(C(=O)OC(C)(C)C)
+" Poly(2,2,3,3-tetrafluoropropyl methacrylate) ",https://polymerdatabase.com/polymer%20index/../polymers/Polytetrafluoropropyl methacrylate.html,"
+							FC(F)C(F)(F)COC(=O)C(=C)C",1.54,119.3,16.2,35200,341,0,"
+							74.0",29000,1.42,0,"
+							C{-}C{n+}(C)(C(=O)OCC(F)(F)C(F)F"
+ Poly[dimethyl itaconate] ,https://polymerdatabase.com/polymer%20index/../polymers/polydimethylitaconate.html,"
+							COC(=O)CC(=C)C(=O)OC",1.29,122.2,20.1,49400,366,0,"
+							81.56",75000,1.22,0,"
+							C{-}(C(=O)OC)(CC(=O)OC)C{n+}"
+ Poly[di(n-propyl) itaconate]  ,https://polymerdatabase.com/polymer%20index/../polymers/polydin-propylitaconate.html,CCCOC(=O)CC(=C)C(=O)OCCC,1.15,186.7,19,67200,303,0,122.68,53500,1.48,0,C{-}(C(=O)OCCC)(CC(=O)OCCC)C{n+}
+ Poly[di(n-butyl) itaconate] ,https://polymerdatabase.com/polymer%20index/../polymers/polydin-butylitaconate.html,CCCCOC(=O)CC(=C)C(=O)OCCCC,1.11,219,18.7,76200,286,0,143.24,71000,1.49,0,C{-}(C(=O)OCCCC)(C(=O)OCCCC)C{n+}
+ Poly[di(n-hexyl) itaconate] ,https://polymerdatabase.com/polymer%20index/../polymers/polydin-hexylitaconate.html,CCCCCCOC(=O)CC(=C)C(=O)OCCCCCC,1.05,284,18.2,86500,269,0,"
+							184.4", , ,0,C{-}(C(=O)OCCCCCC)(CC(=O)OCCCCCC)C{n+}
+ Poly(2-methoxystyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-methoxystyrene.html,C=Cc1ccccc1OC,1.07,125,19.2,46200,357,0,78.39,27000,1.56,0,C{-}C{n+}(c1c(OC)cccc1)
+ Poly(α-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/polya-methylstyrene.html,CC(=C)c1ccccc1,1.04,114.4,18.5,39100,435,0,76.56,16700,1.6,0,C{-}C{n+}(C)(c1ccccc1)
+ Poly(2-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-methylstyrene.html,C=Cc1ccccc1C,1.01,117.5,18.5,40300,394,0,76.41,19000,1.56,0,C{-}C{n+}(c1c(C)cccc1)
+ Poly(3-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly3-methylstyrene.html,C=Cc1cccc(c1)C,1.01,117.5,18.5,39400,393,0,76.41,19000,1.56,0,C{-}C{n+}(c1cc(C)ccc1)
+ Poly(4-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-methylstyrene.html,C=Cc1ccc(cc1)C,1.01,117.5,18.5,40300,380,0,76.41,19000,1.56,0,C{-}C{n+}(c1ccc(C)cc1)
+ Polystyrene ,https://polymerdatabase.com/polymer%20index/../polymers/polystyrene.html,C=Cc1ccccc1,1.05,98.9,19,35800,379,0,66.28,15500,1.6,0,C{-}C{n+}(c1ccccc1)
+ Poly(4-tert-butylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-tert-butylstyrene.html,C=Cc1ccc(cc1)C(C)(C)C,0.96,166.1,17.3,50000,406,0,107.25,31500,1.54,0,C{-}C{n+}(c1ccc(cc1)C(C)(C)C)
+ Poly(butylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylene.html,CCC=C,0.86,65.5,16,16800,"
+							241",0,41.12,4600,1.47,0,C{-}C{n+}(CC)
+ Poly(butyl ethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylethylene.html,CCCCC=C,0.86,97.7,16.3,25900,226,0,"
+							61.7",8400,1.47,0,C{-}C{n+}(CCCC)
+ Poly(cyclohexylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylethylene.html,C=CC1CCCCC1,0.95,115.5,17.2,34200,380,0,74.97,"
+							44250",1.5,0,C{-}C{n+}(C1CCCCC1)
+ Poly(ethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylene.html,C=C,0.87,32.3,16.8,9100,"173, 239",0,20.56,1650,1.48,0,C{-}C{n+}
+ Poly(heptylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polynonene.html,CCCCCCCC=C,0.86,146,16.5,39600,220,0,"
+							92.5", ,1.47,0,C{-}C{n+}(CCCCCCC)
+ Poly(hexylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoctene.html,CCCCCCC=C,0.86,130,16.4,35000,218,0,"
+							82.2", ,1.47,0,C{-}C{n+}(CCCCCC)
+ Poly(isobutene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisobutene.html,CC(=C)C,0.87,64.7,15.4,15400,201,0,41.12,7600,1.49,0,C{-}C{n+}(C)(C)
+ Poly(isobutylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylethylene.html,C=CCC(C)C,0.85,98.6,15.7,24500,279,0,61.68,8200,1.46,0,C{-}(CC(C)C)C{n+}
+ Poly(isopropylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylethylene.html,C=CC(C)C,0.85,82.5,15.5,19900,292,0,51.4,6200,1.46,0,C{-}(C(C)C)C{n+}
+ Poly(2-methylbutene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyethypropylene.html,C=C(C)CC,0.87,80.9,15.7,20000,255,0,"
+							51.4",6200,1.48,0,C{-}(C)(CC)C{n+}
+ Poly(octylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polydecene.html,CCCCCCCCC=C,0.86,162,16.5,44100,226,0,"
+							102.8", ,1.47,0,C{-}(CCCCCCCC)C{n+}
+ Poly(pentylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyheptene.html,CCCCCC=C,0.86,114,16.4,30400,227,0,"
+							72.0", ,1.47,0,C{-}C{n+}(CCCCC)
+ Poly(propylene,https://polymerdatabase.com/polymer%20index/../polymers/polypropylene.html,CC=C,0.85,49.3,15.7,12200,261,0,30.84,3200,1.47,0,C{-}C{n+}(C)
+ Poly(propylethylene),https://polymerdatabase.com/polymer%20index/../polymers/polypentene.html,CCCC=C,0.86,81.6,16.3,21500,229,0,"
+							51.4",6300,1.47,0,C{-}C{n+}(CCC)
+ Poly(tert-butylethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylethylene.html,C=CC(C)(C)C,0.86,97.9,15.4,23100,340,0,61.68,8100,1.48,0,C{-}C{n+}(C(C)(C)C)
+ Polyacetal - Polyoxymethylene  ,https://polymerdatabase.com/polymer%20index/../polymers/polyacetal.html,C=O,1.27,23.7,21.3,10700,216,0,12.25,2900,1.47,0,C{-}O{n+}
+ Poly(3-butoxypropylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Poly3-butoxypropylene oxide.html,CCCCOCC1CO1,1.01,129,18,41900,201,0,"
+							75.9", ,1.47,0,O{-}C(COCCCC)C{n+}
+ Poly(epichlorohydrin) ,https://polymerdatabase.com/polymer%20index/../polymers/polyepichlorohydrin.html,ClCC1CO1,1.34,69,19.9,27200,256,0,41.07,6300,1.51,0,O{-}CC{n+}(CCl)
+ Poly(ethylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneglycol.html,O1CC1,1.11,39.8,19.4,15100,202 251,0,22.53,2100,1.47,0,O{-}CC(n+}
+ Poly(hexamethylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylene oxide.html,C1CCCCOC1,0.96,104.4,17.8,33100,203,0,"
+							63.7",1800,1.47,0,C{-}CCCCCO{n+}
+ Poly(3-methoxypropylene oxide) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyglycidyl methyl ether.html,COCC1CO1,1.09,80.5,18.8,28300,210,0,"
+							45.1", ,1.46,0,O{-}C(COC)C{n+}
+ Poly[oxy(hexyloxymethyl)ethylene] ,https://polymerdatabase.com/polymer%20index/../polymers/Poly2-(hexoxymethyl)oxirane.html,CCCCCCOCC1CO1,0.98,161,17.8,51000,199,0,"
+							96.5", ,1.47,0,O{-}C(COCCCCCC)C{n+}
+ Poly(oxymethylene-oxyethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxyethylene.html,C1COCO1,1.17,63.5,20.1,25700,211,0,"
+							34.8", ,1.47,0,C{-}COCO(n+}
+ Poly(oxymethylene-oxytetramethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoxymethyleneoxytetramethylene.html, ,1.07,95.8,19,34600,198,0,"
+							97.2", ,1.47,0,C{-}CCCOCO(n+}
+ Poly(propylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropyleneglycol.html,CC1CO1,1.02,56.8,17.7,17800,207,0,32.81,2800,1.46,0,O{-}C(C)C{n+}
+ Poly(tetrahydrofuran) ,https://polymerdatabase.com/polymer%20index/../polymers/polytetrahydrofuran.html,C1CCCO1,1,72.1,18.3,24000,193,0,43.09,2000,1.47,0,C{-}CCCO{n+}
+ Poly(trimethylene glycol) ,https://polymerdatabase.com/polymer%20index/../polymers/Polytrimethylene glycol.html,C1CCO1,1.04,55.9,18.7,19500,196,0,"
+							32.8",2020,1.47,0,C{-}CCO{n+}
+" Poly[1,1-bis(chloromethyl)trimethylene oxide] ",https://polymerdatabase.com/polymer%20index/../polymers/polybis(chloromethyl)trimethylene oxide.html,C1C(CO1)(CCl)CCl,1.37,113,19.8,44000,283,0,"
+							69.9", ,1.54,0,C{-}(CCl)(CCl)CCO{n+}
+ Poly(acrylonitrile) ,https://polymerdatabase.com/polymer%20index/../polymers/polyacrylonitrile.html,C=CC#N,1.17,46.4,26.3,32100,387,0,32.5,7900,1.51,0,C{-}C{n+}(C#N)
+ Poly(methacrylonitrile) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethacrylonitrile.html,CC(=C)C#N,1.09,61.8,23.3,33700,383,0,42.78,10300,1.53,0,C{-}C{n+}(C#N)(C)
+ Nylon 3 - Poly(propiolactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon3.html,C1CNC1=O,1.24,57.3,32,58900,380,0,37.99,3350,1.54,0,N{-}C(=O)CC{n+}
+ Nylon 6 - Poly(caprolactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon6.html,O=C1CCCCCN1,1.07,105.8,25,66300,324,0,68.83,2400,1.51,0,N{-}CCCCCC{n+}(=O)
+ Nylon 8 - Polycapryllactam  ,https://polymerdatabase.com/polymer%20index/../polymers/nylon8.html,O=C1CCCCCCCN1,1.02,138,23.1,73700,322,0,89.38,2300,1.5,0,N{-}C(=O)CCCCCCC{n+}
+ Nylon 10 - Poly(decano-10-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon10.html,NCCCCCCCCCC(=O)O,1,170,219,81800,314,0,"
+							109.9",2030,1.5,0,N{-}C(=O)CCCCCCCCC{n+}
+ Nylon 11 - Poly(undecano-11-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon11.html,NCCCCCCCCCCC(=O)O,0.98,186.5,21.5,85900,315,0,120.22,2000,1.5,0,N{-}C(=O)CCCCCCCCCC{n+}
+ Nylon 12 - Poly(dodecano-12-lactam) ,https://polymerdatabase.com/polymer%20index/../polymers/nylon12.html,NCCCCCCCCCCCC(=O)O,0.97,202.6,21.1,90200,313,0,130.5,1950,1.5,0,N{-}C(=O)CCCCCCCCCCC{n+}
+" Nylon 4,6 - Poly(tetramethylene adipamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon4-6.html,OC(=O)CCCCC(=O)O.NCCCCN,1.11,179,26.5,126000,344,0,"
+							117.1", ,1.52,0,N{-}C(=O)CCCCC(=O)NCCCC{n+}
+" Nylon 6,6 - Poly(hexamethylene adipamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon66.html,NCCCCCCN.OC(=O)CCCCC(=O)O,1.07,211.5,25,133600,324,0,137.65,2200,1.52,0,N{-}C(=O)CCCCC(=O)NCCCCCC{n+}
+" Nylon 6,9 - Poly(hexamethylene azelamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon6-9.html,OC(=O)CCCCCCCC(=O)O.NCCCCCCN,1.03,260,23.5,144000,325,0,"
+							168.5",2100,1.51,0,N{-}C(=O)CCCCCCCC(=O)NCCCCCC{n+}
+" Nylon 6,10 - Poly(hexamethylene sebacamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon6-10.html,"
+							OC(=O)CCCCCCCCC(=O)O.NCCCCCCN",1.02,276.1,23.1,147000,321,0,"
+							178.8",2050,1.51,0,"
+							N{-}C(=O)CCCCCCCCC(=O)NCCCCCC{n+}"
+" Nylon 6,12 - Poly(hexamethylene dodecanediamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon612.html,NCCCCCCN.OC(=O)CCCCCCCCCCC(=O)O,1.01,308.4,22.4,155300,318,0,199.33,2000,1.5,0,N{-}C(=O)CCCCCCCCCCC(=O)NCCCCCC{n+}
+" Nylon 10,10 - Poly(decamethylene sebacamide) ",https://polymerdatabase.com/polymer%20index/../polymers/nylon10-10.html,"
+							OC(=O)CCCCCCCCC(=O)O.NCCCCCCCCCCN",0.99,341,21.9,163500,314,0,"
+							219.9",1900,1.5,0,N{-}C(=O)CCCCCCCCC(=O)NCCCCCCCCCC{n+}
+" Poly(hexamethylene isophthalamide), PA 6I",https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylisophthalamide.html,NCCCCCCN.ClC(=O)c1cc(ccc1)C(=O)Cl,1.15,215,26,145000,390,0,"
+							142.1","
+",1.57,0,N{-}C(=O)c1cc(ccc1)C(=O)NCCCCCC{n+}
+" Poly(hexamethylene teraphthalamide), PA 6T",https://polymerdatabase.com/polymer%20index/../polymers/Polyhexanediylteraphthalamide.html,NCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,1.15,215,26,145000,415,0,"
+							142.1","
+",1.57,0,N{-}C(=O)c1ccc(cc1)C(=O)NCCCCCC{n+}
+ Kevlar - Polyaramide  ,https://polymerdatabase.com/polymer%20index/../polymers/kevlar.html,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,1.28,186.5,28.6,152800,595,0,126.01,2900,1.65,0,N{-}c1ccc(cc1)NC(=O)c1ccc(cc1)C{n+}(=O)
+ Nomex - Poly(m-phenylene terephthalamide),https://polymerdatabase.com/polymer%20index/../polymers/polym-phenyleneterephthalamide.html,"
+							Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl",1.31,186.5,28.6,153000,510,0,"
+							126.0", ,1.65,0,"
+							N{-}c1cc(ccc1)NC(=O)c1cc(ccc1)C{n+}(=O)"
+" Poly(nonanmethylene teraphthalamide), PA 9T",https://polymerdatabase.com/polymer%20index/../polymers/Polynonanediylteraphthalamide.html,NCCCCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,1.1,264,24.3,155000,386,0,"
+							173","
+",1.55,0,N{-}C(=O)c1ccc(cc1)C(=O)NCCCCCCCCC{n+}
+ Bisphenol-A diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-adiglycidyletherepoxyresin.html,CC(C)(c1ccc(cc1)O)c2ccc(cc2)O.C1C(O1)CCl ,1.13,251.6,21.2,112700,381,0,159.34,1500,1.58,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)O(n+}
+ Bisphenol-F diglycidyl ether epoxy resin ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenol-fdiglycidyletherepoxyresin.html,O1C C1COc1ccc(cc1)Cc1ccc(cc1)OC C1O C1, , ,22.2,108000,352,0,"
+							138.8", ,1.59,0,C{-}C(O)COc1ccc(cc1)Cc2ccc(cc2)O(n+}
+ Poly(bis-A diglycidyl ether- alt - ethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-ethylenediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCN,1.14,352.5,22.2,174100,409,0,223.77,1900,1.57,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - hexamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-hexanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCN,1.1,416.5,21.4,191000,387,0,"
+							264.9", ,1.56,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCN{n+}
+ Poly(bis-A diglycidyl ether- alt - octamethylenediamine) ,https://polymerdatabase.com/polymer%20index/../polymers/polybis-adiglycidylether-alt-Octanediamine.html,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCCCN,"
+							1.08",449,21.1,199700, ,0,"
+							264.9", , ,0,C{-}C(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCCCN{n+}
+ Poly(p-phenylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyp-phenylene.html,Brc1ccc(cc1)Br,1.12,68.2,20.2,27800,558,0,"
+							45.6",6000,1.65,0,"
+							c1{-}cc{n+}(ccc1)"
+ Poly(p-phenylene vinylene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyphenylene%20vinylene.html,Brc1ccc(cc1)Br.C=C,1.07,95.2,19.2,35200,316,0,"
+							63.7", ,1.65,0,c1{-}ccc(cc1)C=C{n+}
+ Poly(p-xylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polyp-xylene.html,C1Cc2ccc(cc2)CCc2ccc1cc2,1.04,100.5,19.1,36600,333,0,66.13,1000,1.59,0,C{-}c1ccc(cc1)C{n+}
+ Poly(2-chloro-p-xylylene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-chloro-p-xylylene.html,Clc1cc2CCc3ccc(CCc1cc2)cc3Cl,1.2,115,19.6,44100,356,0,73.93,2400,1.58,0,C{-}c1c(Cl)cc(cc1)C{n+}
+" Poly(2,6-dimethyl-p-phenylene oxide) ",https://polymerdatabase.com/polymer%20index/../polymers/poly26-dimethyl-p-phenyleneoxide.html,Oc1c(C)cccc1(C),1.07,112.8,18.9,40500,465,0,67.81,3500,1.52,0,O{-}c1c(C)cc{n+}(cc1(C))
+" Poly(2,6-diphenyl-p-phenylene oxide) ",https://polymerdatabase.com/polymer%20index/../polymers/poly26-diphenyl-p-phenyleneoxide.html,Oc1c(cccc1c1ccccc1)c1ccccc1,1.15,212,20.6,89600,495,0,138.7,12000,1.63,0,O{-}c1c(c2ccccc2)cc(n+}(cc1(c3ccccc3))
+ Poly(p-phenylene oxide),https://polymerdatabase.com/polymer%20index/../polymers/polyphenyleneoxide.html,"
+							Brc1ccc(Br)cc1.Oc1ccccc1",1.22,75.7,21.2,34100,383,0, ,2560,1.63,0,"
+							O{-}c1ccc{-}(cc1)"
+ Poly(ether ether sulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyetherethersulfone.html,Oc1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.33,244.1,23.5,135200,487,0,156.43,2400,1.63,0,c1{-}ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)O{n+}
+ Poly(ethersulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethersulfone.html,Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl.Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)O,1.38,168.3,24.7,102700,505,0,108.88,3850,1.61,0,O{-)c1ccc(cc1)S(=O)(=O)c1ccc{n+}(cc1)
+ Poly(phenylsulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyphenylsulfone.html,Oc1ccc(cc1)c1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.28,313.6,22.7,161500,482,0,202.01,1900,1.64,0,c1{-}ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)c1ccc(cc1)O{n+}
+ Bisphenol A Polysulfone ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenolapolysulfone.html,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.22,362,21.7,170900,460,0,232.84,2150,1.62,0,O{-}c1ccc(cc1)C(C)(C)c1ccc(cc1)Oc1ccc(cc1)S(=O)(=O)c1ccc{n+}(cc1)
+" Poly(thio-1,4-phenylene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-phenylenesulfide.html,Clc1ccc(cc1)Cl.[Na]S[Na],1.27,85.1,21.1,38000,366,0,55.5,3200,1.71,0,S{-}c1ccc{-}(cc1)
+ Poly(ethylene sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesulfide.html,ClCCCl.[Na]S[Na],1.22,49.2,19.6,18900,223,0,30.49,3750,1.64,0,S{-}CC{n+}
+ Poly(propylene sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropylenesulfide.html,ClCC(C)Cl.[Na]S[Na],1.12,66.3,18.1,21700,221,0,40.77,3550,1.59,0,S{-}CC{n+}(C)
+ Poly(acrylic acid) ,https://polymerdatabase.com/polymer%20index/../polymers/polyacrylicacid.html,OC(=O)C=C,1.44,50,21.3,22700,380,0,36.23,6900,1.52,0,C{-}C{n+}(C(=O)O)
+ Poly(benzyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybenzylacrylate.html,C=CC(=O)OCc1ccccc1,1.19,135.7,20.3,55900,352,0,91.65,36000,1.57,0,C{-}C{n+}(C(=O)OCc1ccccc1)
+ Poly(butyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylacrylate.html,CCCCOC(=O)C=C,1.08,118.4,18.4,40300,229,0,76.76,18000,1.48,0,C{-}C{n+}(C(=O)OCCCC)
+ Poly(4-chlorophenyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-chlorophenylacrylate.html,C=CC(=O)Oc1ccc(cc1)Cl,1.1,134.2,21,59000,334,0,89.16,63000,1.58,0,C{-}C{n+}(C(=O)Oc1ccc(cc1)Cl)
+ Poly(2-cyanoethyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-cyanoethylacrylate.html,C=CC(=O)OCCC#N,1.26,99.3,23.7,55800,276,0,68.14,30000,1.5,0,C{-}C{n+}(C(=O)OCCC#N)
+ Poly(cyanomethyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polycyanomethylacrylate.html,C=CC(=O)OCC#N,1.34,83.2,25.1,52200,295,0,57.86,24000,1.5,0,C{-}C{n+}(C(=O)OCC#N)
+ Poly(cyclohexyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polycyclohexylacrylate.html,C=CC(=O)OC1CCCCC1,1.13,136.2,19,49000,286,0,90.05,22000,1.51,0,C{-}C{n+}(C(=O)OC1CCCCC1)
+ Poly(ethyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylacrylate.html,CCOC(=O)C=C,1.16,86.1,19.1,31300,254,0,56.2,9400,1.47,0,C{-}C{n+}(C(=O)OCC)
+ Poly(2-ethylhexyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-ethylhexylacrylate.html,CCCCC(COC(=O)C=C)CC,1,183.8,17.6,56800,222,0,117.87,39000,1.47,0,C{-}C{n+}(C(=O)OCC(CC)CCCC)
+ Poly(hexyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyhexylacrylate.html,CCCCCCOC(=O)C=C,1.04,150.7,18.1,49300,219,0,"
+							97.3",27200,1.48,0,C{-}C{n+}(C(=O)OCCCCCC)
+ Poly(isobutyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisobutylacrylate.html,C=CC(=O)OCC(C)C,1.07,119.3,18,38600,243,0,76.76,17300,1.47,0,C{-}C{n+}(C(=O)OCC(C)C)
+ Poly(isopropyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyisopropylacrylate.html,CC(C)OC(=O)C=C,1.1,104,18.2,34100,264,0,"
+							66.5",13400,1.47,0,C{-}C{n+}(C(=O)OC(C)C)
+ Poly(methyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethylacrylate.html,COC(=O)C=C,1.23,70,19.6,26800,283,0,45.92,8400,1.48,0,C{-}C{n+}(C(=O)OC)
+ Poly(octyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyoctylacrylate.html,CCCCCCCCOC(=O)C=C,1.01,183,17.9,58400,216,0,"
+							117.9",39400,1.47,0,C{-}C{n+}(C(=O)OCCCCCCCC)
+ Poly(propyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropylacrylate.html,CCCOC(=O)C=C,1.12,102.2,18.7,35700,234,0,66.48,13800,1.48,0,C{-}C{n+}(C(=O)OCCC)
+ Poly(sec-butyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polysec-butylacrylate.html,CC(OC(=O)C=C)CC,1.07,119.3,18,38600,250,0,76.76,17300,1.47,0,C{-}C{n+}(C(=O)OC(C)CC)
+ Poly(stearyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polystearylacrylate.html,"
+							CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C",0.94,344,17.4,104000,303,0,"
+							220.7",147000,1.48,0,"
+							C{-}C{n+}(C(=O)OCCCCCCCCCCCCCCCCCC)"
+ Poly(tert-butyl acrylate) ,https://polymerdatabase.com/polymer%20index/../polymers/polytert-butylacrylate.html,C=CC(=O)OC(C)(C)C,1.08,118.6,17.7,37100,314,0,76.76,17000,1.48,0,C{-}C{n+}(C(=O)OC(C)(C)C)
+" Poly(2,2,3,3-Tetrafluoropropyl acrylate) ",https://polymerdatabase.com/polymer%20index/../polymers/Polytetrafluoropropyl acrylate.html,"
+							FC(F)C(F)(F)COC(=O)C(=C)",1.54,119,16.5,31500,250,0,"
+							74.0",24700,1.41,0,"
+							C{-}C{n+}(C(=O)OCC(F)(F)C(F)F"
+ Poly(butylene sebacate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polytetramethylenesebacate.html,"
+							OC(=O)CCCCCCCCC(=O)O.OCCCCO",1.09,235,18.9,83900,216,0,"
+							153.5",1900,1.48,0,"
+							O{-}CCCCOC(=O)CCCCCCCCC{n+}(=O)"
+ Poly(ethylene sebacate)  ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesebacate.html,OC(=O)CCCCCCCCC(=O)O.OCCO,1.12,204,19.2,75000,237,0,133,1960,1.48,0,O{-}CCOC(=O)CCCCCCCCC{n+}(=O)
+ Poly(hexylene sebacate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polyhexamethylenesebacate.html,"
+							OC(=O)CCCCCCCCC(=O)O.OCCCCCCO",1.06,267.2,18.6,92900,210,0,"
+							174.1",1800,1.48,0,"
+							O{-}CCCCCCOC(=O)CCCCCCCCC{n+}(=O)"
+ Poly(diethylsiloxane) (PDES),https://polymerdatabase.com/polymer%20index/../polymers/Polydiethylsiloxane.html,"CC[Si](CC)(Cl)Cl, CC[Si](CC)(OC)OC ", , , , , ,0,"
+							 ", , ,0,Si{-}(CC)(CC)O{n+}
+ Poly(dimethylsiloxane) (PDMS),https://polymerdatabase.com/polymer%20index/../polymers/Polydimethylsiloxane.html,"C[Si](C)(Cl)Cl, CO[Si](C)(C)OC", , , , ,147.5,0,"
+							42.6", , ,0,Si{-}(C)(C)O{n+}
+ Poly(methylphenylsiloxane) (PMPS),https://polymerdatabase.com/polymer%20index/../polymers/Polymethylphenylsiloxane.html,"C[Si](c1ccccc1)(Cl)Cl, CO[Si](C)(c1ccccc1)OC", , , , , ,0,"
+							 ", , ,0,Si{-}(C)(c1ccccc1)O{n+}
+ Poly(2-methoxystyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-methoxystyrene.html,C=Cc1ccccc1OC,1.07,125,19.2,46200,357,0,78.39,27000,1.56,0,C{-}C{n+}(c1c(OC)cccc1)
+ Poly(α-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/polya-methylstyrene.html,CC(=C)c1ccccc1,1.04,114.4,18.5,39100,435,0,76.56,16700,1.6,0,C{-}C{n+}(C)(c1ccccc1)
+ Poly(2-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly2-methylstyrene.html,C=Cc1ccccc1C,1.01,117.5,18.5,40300,394,0,76.41,19000,1.56,0,C{-}C{n+}(c1c(C)cccc1)
+ Poly(3-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly3-methylstyrene.html,C=Cc1cccc(c1)C,1.01,117.5,18.5,39400,393,0,76.41,19000,1.56,0,C{-}C{n+}(c1cc(C)ccc1)
+ Poly(4-methylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-methylstyrene.html,C=Cc1ccc(cc1)C,1.01,117.5,18.5,40300,380,0,76.41,19000,1.56,0,C{-}C{n+}(c1ccc(C)cc1)
+ Polystyrene ,https://polymerdatabase.com/polymer%20index/../polymers/polystyrene.html,C=Cc1ccccc1,1.05,98.9,19,35800,379,0,66.28,15500,1.6,0,C{-}C{n+}(c1ccccc1)
+ Poly(4-tert-butylstyrene) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-tert-butylstyrene.html,C=Cc1ccc(cc1)C(C)(C)C,0.96,166.1,17.3,50000,406,0,107.25,31500,1.54,0,C{-}C{n+}(c1ccc(cc1)C(C)(C)C)
+" Poly(1,4-butylene succinate)  ",https://polymerdatabase.com/polymer%20index/../polymers/Polybutylene succinate.html,OC(=O)CCC(=O)O.OCCCCO,1.25,138.1,20.4,57300,238,0,"
+							91.8",2200,1.49,0,O{-}CCCCOC(=O)CCC{n+}(=O)
+ Poly(ethylene succinate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polyethylene succinate.html,OC(=O)CCC(=O)O.OCCO,1.36,106,21.4,48700,267,0,"
+							71.3",2430,1.48,0,O{-}CCOC(=O)CCC{n+}(=O)
+" Poly(1,6-hexylene succinate)  ",https://polymerdatabase.com/polymer%20index/../polymers/Polyhexylene succinate.html,OC(=O)CCC(=O)O.OCCCCCCO,1.18,170,19.7,66100,221,0,"
+							112", ,1.49,0,O{-}CCCCCCOC(=O)CCC{n+}(=O)
+ Poly(trimethylene succinate)  ,https://polymerdatabase.com/polymer%20index/../polymers/Polypropylene succinate.html,OC(=O)CCC(=O)O.OCCCO,1.3,122,20.8,52900,245,0,"
+							81.6", ,1.49,0,O{-}CCCOC(=O)CCC{n+}(=O)
+ Poly(ether ether sulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyetherethersulfone.html,Oc1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.33,244.1,23.5,135200,487,0,156.43,2400,1.63,0,c1{-}ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)O{n+}
+ Poly(ethersulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethersulfone.html,Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl.Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)O,1.38,168.3,24.7,102700,505,0,108.88,3850,1.61,0,O{-)c1ccc(cc1)S(=O)(=O)c1ccc{n+}(cc1)
+ Poly(phenylsulfone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyphenylsulfone.html,Oc1ccc(cc1)c1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.28,313.6,22.7,161500,482,0,202.01,1900,1.64,0,c1{-}ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)c1ccc(cc1)O{n+}
+ Bisphenol A Polysulfone ,https://polymerdatabase.com/polymer%20index/../polymers/bisphenolapolysulfone.html,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,1.22,362,21.7,170900,460,0,232.84,2150,1.62,0,O{-}c1ccc(cc1)C(C)(C)c1ccc(cc1)Oc1ccc(cc1)S(=O)(=O)c1ccc{n+}(cc1)
+ Poly(Bisphenol A terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/poly(bisphenolAterephthalate).html,"
+							OC(=O)c1ccc(cc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O",1.22,294.4,20.5,124100,462,0,"
+							197.7",1600,1.6,0,"
+							C{-}(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O{n+}"
+ Poly(butylene terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutyleneterephthalate.html,OC(=O)c1ccc(cc1)C(=O)O.OCCCCO,1.27,174,21,76400,313,0,116.86,1600,1.55,0,O{-}C(=O)c1ccc(cc1)C(=O)OCCCC{n+}
+ Poly(cyclohexylenedimethylene terephthalate),https://polymerdatabase.com/polymer%20index/../polymers/Polycyclohexanedimethylene terephthalate.html,OC(=O)c1ccc(cc1)C(=O)O.OCC1CCC(CC1)CO,1.22,225,20.2,92200,369,0,"
+							150.7", ,1.54,0,O{-}C(=O)c1ccc(cc1)C(=O)OCC1CCC(CC1)C{n+}
+ Poly(ethylene terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethyleneterephthalate.html,OC(=O)c1ccc(cc1)C(=O)O.OCCO,1.36,141.7,21.9,68000,346,0,96.3,1700,1.57,0,O{-}C(=O)c1ccc(cc1)C(=O)OCC{n+}
+ Poly(trimethylene terephthalate) ,https://polymerdatabase.com/polymer%20index/../polymers/polytrimethyleneterephthalate.html,"
+							OC(=O)c1ccc(cc1)C(=O)O.OCCCO",1.31,157.9,21.4,72100,330,0,"
+							106.6",1650,1.56,0,"
+							O{-}C(=O)c1ccc(cc1)C(=O)OCCC{n+}"
+" Poly(thio-1,4-phenylene) ",https://polymerdatabase.com/polymer%20index/../polymers/poly14-phenylenesulfide.html,Clc1ccc(cc1)Cl.[Na]S[Na],1.27,85.1,21.1,38000,366,0,55.5,3200,1.71,0,S{-}c1ccc{-}(cc1)
+ Poly(ethylene sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylenesulfide.html,ClCCCl.[Na]S[Na],1.22,49.2,19.6,18900,223,0,30.49,3750,1.64,0,S{-}CC{n+}
+ Poly(propylene sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polypropylenesulfide.html,ClCC(C)Cl.[Na]S[Na],1.12,66.3,18.1,21700,221,0,40.77,3550,1.59,0,S{-}CC{n+}(C)
+" Poly[(diethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  ",https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatediethyleneglycol.html,OCCOCCO.O=C=NCCCCCCN=C=O,1.23,223.1,23.8,126500,275,0,147.34,4300,1.52,0,O{-}CCOCCOC(=O)NCCCCCCNC{n+}(=O)
+" Poly[(tetraethylene glycol)-alt-(1,6-hexamethylene diisocyanate)]  ",https://polymerdatabase.com/polymer%20index/../polymers/hexamethylenediisocyanatetetraethyleneglycol.html,OCCOCCOCCOCCO.O=C=NCCCCCCN=C=O,2.21,300,22.8,156000,262,0,"
+							192.4", ,"
+							1.51",0,O{-}CCOCCOCCOCCOC(=O)NCCCCCCNC{n+}(=O)
+" Poly[(1,4-butanediol)-alt-(4,4'-diphenylmethane diisocyanate)] ",https://polymerdatabase.com/polymer%20index/../polymers/butanedioldiphenylmethanediisocyanate.html,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,1.23,275.7,23.5,152400,369,0,185.11,2200,1.57,0,O{-}CCCCOC(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC{n+}(=O)
+" Poly[(ethylene glycol)-alt-(4,4'-diphenylmethane diisocyanate)] ",https://polymerdatabase.com/polymer%20index/../polymers/ethyleneglycoldiphenylmethanediisocyanate.html,OCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,1.28,243.7,24.4,144800,414,0,164.56,2200,1.58,0,O{-}CCOC(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC{n+}(=O)
+" Poly[(polytetrahydrofuran 1000)-alt-(4,4'-diphenylmethane diisocyanate)] ",https://polymerdatabase.com/polymer%20index/../polymers/PTMO-diphenylmethanediisocyanate.html,(OCCCC)14O.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,1.07,1191,19.7,463500,233,0,"
+							745","
+							2225","
+							1.50",0,O{-}(CCCCO)13CCCCO(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC{n+}(=O)
+ Poly(vinyl alcohol) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylalcohol.html,C{-}(OC(=O)C)C{n+},1.25,35.4,31.5,35200,357,0,23.13,5250,1.54,0,C{-}(O)C{n+}
+ Poly(4-vinyl phenol) ,https://polymerdatabase.com/polymer%20index/../polymers/poly4-hydroxystyrene.html,C=Cc1ccc(cc1)O,1.16,103.6,24,59900,"443, 494",0,68.7,28000,1.61,0,C{-}C{n+}(c1ccc(O)cc1)
+ Poly(vinyl butyral) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbutyral.html,"
+							C{-}C(O){n+}.O=CCCC",1.11,127,19,54700,344,0,"
+							 ","
+							 ",1.485,0,C1{-}CC(OC(CCC)O1)C{n+}
+ Poly(vinyl formal) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylformal.html,"
+							C{-}C(O){n+}.O=C",1.24,79.8, , ,325,0,"
+							 ","
+							 ",1.49,0,C1{-}CC(OCO1)C{n+}
+ Poly(vinyl acetate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylacetate.html,CC(=O)OC=C,1.23,70,19.6,26800,308,0,45.92,7700,1.48,0,C{-}C{n+}(OC(=O)C)
+ Poly(vinyl benzoate) ,https://polymerdatabase.com/polymer%20index/../polymers/Polyvinylbenzoate.html,"
+							C=COC(=O)c1ccccc1",1.24,120,20.8,51600,352,0,"
+							81.4",6300,1.59,0,"
+							C{-}C{n+}(OC(=O)c1ccccc1)"
+ Poly(vinyl butyrate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbutyrate.html,CCCC(=O)OC=C,1.12,102.2,18.7,35700,271,0,66.48,13800,1.47,0,C{-}C{n+}(OC(=O)CCC)
+ Poly(vinyl caproate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylhexanoate.html,CCCCCC(=O)OC=C,1.06,134.5,18.2,45000,236,0,"
+							87.0",22000,1.48,0,C{-}C{n+}(OC(=O)CCCCC)
+ Poly(vinyl formate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylformate.html,C=COC=O,1.3,55.5,18.3,18000,293,0,32.01,4450,1.44,0,C{-}C{n+}OC=O
+ Poly(vinyl propionate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylpropionate.html,C=COC(=O)CC,1.16,86.1,19.1,31300,288,0,56.2,10500,1.48,0,C{-}C{n+}(OC(=O)CC)
+ Poly(vinyl stearate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylstearate.html,"
+							CCCCCCCCCCCCCCCCCC(=O)OC=C",0.95,328,17.4,99400,279,0,"
+							210.4",132000,1.48,0,C{-}C{n+}(OC(=O)CCCCCCCCCCCCCCCCC)
+ Poly(vinyl valerate) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylvalerate.html,CCCCC(=O)OC=C,1.08,118,18.4,40000,248,0,"
+							76.8",18000,1.48,0,C{-}C{n+}(OC(=O)CCCC)
+ Poly(chlorotrifluoroethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/Polychlorotrifluoroethylene.html,FC(=C(F)F)Cl,2.08,56,16.1,14500,365,0,"
+							34.48",11100,1.44,0,"
+							C{-}(Cl)(F)C{n+}(F)(F)"
+ Poly(tetrafluoroethylene) ,https://polymerdatabase.com/polymer%20index/../polymers/polytetrafluoroethylene.html,FC(=C(F)F)F,2.1,47.6,12.9,7900,385,0,28.11,5400,1.36,0,C{-}(F)(F)C{n+}(F)(F)
+ Poly(vinyl bromide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylbromide.html,BrC=C,2.18,49.2,19.1,17900,377,0,33.43,7700,1.62,0,C{-}(Br)C{n+}
+ Poly(vinyl chloride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylchloride.html,ClC=C,1.38,45.3,19.1,16600,350,0,28.82,5750,1.53,0,C{-}(Cl)C{n+}
+ Poly(vinyl fluoride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylfluoride.html,FC=C,1.26,36.9,15.1,8500,"269, 338",0,22.45,1650,1.41,0,C{-}(F)C{n+}
+ Poly(vinylidene chloride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenechloride.html,ClC(=C)Cl,1.71,56.8,20,22800,"254, 295",0,37.07,14600,1.61,0,C{-}(Cl)(Cl)C{n+}
+ Poly(vinylidene fluoride) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylidenefluoride.html,FC(=C)F,1.6,39.9,15.6,9700,242,0,24.33,2600,1.41,0,C{-}(F)(F)C{n+}
+ Poly(vinyl ethyl ketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylethylketone.html,CCC(=O)C=C,1.06,79.3,20.6,33500,268,0,52.34,8500,1.49,0,C{-}(C(=O)CC)C{n+}
+ Poly(vinyl methyl ketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylmethylketone.html,CC(=O)C=C,1.11,63.1,21.5,29300,305,0,42.06,7000,1.49,0,C{-}(C(=O)C)C{n+}
+ Poly(methyl isopropenyl ketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polymethylisopropenylketone.html,CC(=O)C(C)=C,1.07,78.1,20.2,31800,344,0,52.34,8600,1.51,0,C{-}(C=O(C))(C)C{n+}
+ Poly(vinyl phenyl ketone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylphenylketone.html,C=CC(=O)c1ccccc1,1.17,113,22,54400,"
+							344",0,"
+							77.5",26200,1.61,0,C{-}(C(=O)c1ccccc1)C{n+}
+ Poly(vinyl pyrrolidone) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylpyrrolidone.html,"
+
+							C=CN1CCCC1=O",1.32,84, 24.3,49600,"
+							455 (?)",0,"
+							59.8", ,1.54,0,C{-}C{n+}(N1CCCC1=O)
+ Poly(vinyl butyl sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polybutylvinylhioether.html,CCCCSC=C,1,116.4,17.5,35600,254,0,71.6,15000,1.53,0,C{-}C{n+}(SCCCC)
+ Poly(vinyl ethyl sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyethylvinylthioether.html,CCSC=C,1.07,82.4,17.8,26200,265,0,51.05,8300,1.56,0,C{-}C{n+}(SCC)
+ Poly(vinyl methyl sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylmethylsulfide.html,CSC=C,1.12,66.3,18.1,21700,270,0,40.77,7200,1.58,0,C{-}C{n+}(SC)
+ Poly(vinyl phenyl sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylphenylsulfide.html,C=CSc1ccccc1,1.16,117,19.9,46400,398,0,76.21,22800,1.65,0,C{-}C{n+}(Sc1ccccc1)
+ Poly(vinyl propyl sulfide) ,https://polymerdatabase.com/polymer%20index/../polymers/polyvinylpropylsulfide.html,CCCSC=C,1.02,99.9,17.6,31000,253,0,"
+							61.3", ,1.54,0,C{-}C{n+}(SCCC)
